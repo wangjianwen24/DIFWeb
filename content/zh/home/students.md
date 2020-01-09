@@ -1,3 +1,13 @@
++++
+# Accomplishments widget.
+widget = "students"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
+
+title = "学生信息"
+subtitle = ""
+
 #学生信息    
 
 ####目前在读研究生  
@@ -57,3 +67,5 @@
 | 姓名 | 学位 | 专业 | 论文 | 毕业时间 | 毕业去向 |
 | --- | --- | --- | --- | --- | --- |
 | 关晴骁 | （待补充） | （待补充） | 《通用型图像隐写分析的基础问题研究》| 2013.07 | 集美大学 |
+
++++
