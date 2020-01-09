@@ -26,19 +26,11 @@
   enable = true
 
 [[buttons]]
-  id = "linkedin"
-  url = "https://www.linkedin.com/shareArticle?url={url}&title={title}"
-  title = "LinkedIn"
+  id = "weixin"
+  url = "https://zixuephp.net/inc/qrcode_img.php?url={url}"
+  title = "Weichat"
   icon_pack = "fab"
-  icon = "linkedin-in"
-  enable = true
-
-[[buttons]]
-  id = "whatsapp"
-  url = "https://web.whatsapp.com/send?text={title}%20{url}"
-  title = "WhatsApp"
-  icon_pack = "fab"
-  icon = "whatsapp"
+  icon = "weixin"
   enable = true
 
 [[buttons]]
@@ -48,6 +40,22 @@
   icon_pack = "fab"
   icon = "weibo"
   enable = true
+  
+[[buttons]]
+  id = "linkedin"
+  url = "https://www.linkedin.com/shareArticle?url={url}&title={title}"
+  title = "LinkedIn"
+  icon_pack = "fab"
+  icon = "linkedin-in"
+  enable = false
+
+[[buttons]]
+  id = "whatsapp"
+  url = "https://web.whatsapp.com/send?text={title}%20{url}"
+  title = "WhatsApp"
+  icon_pack = "fab"
+  icon = "whatsapp"
+  enable = false
 
 [[buttons]]
   id = "reddit"
