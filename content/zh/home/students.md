@@ -8,7 +8,7 @@ weight = 50  # Order that this section will appear.
 title = "学生信息"
 subtitle = ""
 
-#学生信息    
+<h1>学生信息</h1>    
 
 ####目前在读研究生  
 
