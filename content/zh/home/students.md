@@ -54,14 +54,14 @@ subtitle = ""
 
 <table border="1" width ="800" style="border-color: black">
    <tr>
-      <th align = "center" width ="10%">姓名</th>
-      <th align = "center" width ="15%">类型</th>
-      <th align = "center" width ="10%">姓名</th>
-      <th align = "center" width ="15%">类型</th>
-      <th align = "center" width ="10%">姓名</th>
-      <th align = "center" width ="15%">类型</th>
-      <th align = "center" width ="10%">姓名</th>
-      <th align = "center" width ="15%">类型</th>
+      <th align = "center" width ="80">姓名</th>
+      <th align = "center" width ="120">类型</th>
+      <th align = "center" width ="80">姓名</th>
+      <th align = "center" width ="120">类型</th>
+      <th align = "center" width ="80">姓名</th>
+      <th align = "center" width ="120">类型</th>
+      <th align = "center" width ="80">姓名</th>
+      <th align = "center" width ="120">类型</th>
    </tr>
    <tr>
       <td align = "center">杜倩龙</td>
