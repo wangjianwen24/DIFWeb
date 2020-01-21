@@ -9,7 +9,6 @@ weight = 100  # Order that this section will appear.
 
 title = "团队"
 subtitle = ""
-columns = "2"
 
 [content]
   # Choose which groups/teams of users to display.
