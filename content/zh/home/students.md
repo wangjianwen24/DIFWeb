@@ -68,9 +68,9 @@ subtitle = ""
       <td align = "center">硕博连读生</td>
       <td align = "center">闫璟辉</td>
       <td align = "center">博士生</td>
-      <td align = "center">周  龙</td>
+      <td align = "center">周    龙</td>
       <td align = "center">硕博连读生</td>
-      <td align = "center">马  聪</td>
+      <td align = "center">马    聪</td>
       <td align = "center">硕博连读生</td>
    </tr>
    <tr>
@@ -78,9 +78,9 @@ subtitle = ""
       <td align = "center">硕博连读生</td>
       <td align = "center">亢晓勉</td>
       <td align = "center">直博生</td>
-      <td align = "center">李  梅</td>
+      <td align = "center">李    梅</td>
       <td align = "center">硕博连读生</td>
-      <td align = "center">向  露</td>
+      <td align = "center">向    露</td>
       <td align = "center">博士生</td>
    </tr>
    <tr>
@@ -90,13 +90,13 @@ subtitle = ""
       <td align = "center">直博生</td>
       <td align = "center">刘宇宸</td>
       <td align = "center">硕博连读生</td>
-      <td align = "center">孙  建</td>
+      <td align = "center">孙    建</td>
       <td align = "center">博士生</td>
    </tr>
    <tr>
       <td align = "center">朱军楠</td>
       <td align = "center">硕博连读生</td>
-      <td align = "center">黄  鑫</td>
+      <td align = "center">黄    鑫</td>
       <td align = "center">博士生</td>
       <td align = "center">孙静远</td>
       <td align = "center">硕博连读生</td>
@@ -106,14 +106,96 @@ subtitle = ""
 </table>
 
 - **已经毕业的研究生（以毕业时间为序）**  
+
   **2019年毕业生**
 
-| 姓名 | 学位 | 专业 | 论文 | 毕业时间 | 毕业去向 |
-| --- | --- | --- | --- | --- | --- |
-| 赵阳 | 博士 | （待补充） | 《增强译文忠实度的神经机器翻译方法研究》| 2019.06 | （待补充） |
-| 刘洋 | 博士 | （待补充） | 《篇章关系识别方法研究与应用》| 2019.06 | （待补充） |
-  
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2018年毕业生**
+<table border="1" width ="800" style="border-color: black">
+   <tr>
+      <th align = "center" width ="80">姓名</th>
+      <th align = "center" width ="80">学位</th>
+      <th align = "left" width ="120">专业</th>
+      <th align = "left" width ="300">论文</th>
+      <th align = "left" width ="120">毕业时间</th>
+      <th align = "left" width ="100">毕业去向</th>
+   </tr>
+   <tr>
+      <td>赵    阳</td>
+      <td>博士</td>
+      <td>（待补充）</td>
+      <td>《增强译文忠实度的神经机器翻译方法研究》</td>
+      <td> 2019.06</td>
+      <td>（待补充）</td>
+   </tr>
+   <tr>
+      <td>刘    洋</td>
+      <td>博士</td>
+      <td>（待补充）</td>
+      <td>《篇章关系识别方法研究与应用》</td>
+      <td> 2019.06</td>
+      <td>（待补充）</td>
+   </tr>
+</table>
+
+  **2018年毕业生**
+
+<table border="1" width ="800" style="border-color: black">
+   <tr>
+      <th align = "center" width ="80">姓名</th>
+      <th align = "center" width ="80">学位</th>
+      <th align = "left" width ="120">专业</th>
+      <th align = "left" width ="300">论文</th>
+      <th align = "left" width ="120">毕业时间</th>
+      <th align = "left" width ="100">毕业去向</th>
+   </tr>
+   <tr>
+      <td>王少楠</td>
+      <td>博士</td>
+      <td>（待补充）</td>
+      <td>《文本向量表示方法研究》</td>
+      <td> 2018.06</td>
+      <td>（待补充）</td>
+   </tr>
+   <tr>
+      <td>李俊杰</td>
+      <td>博士</td>
+      <td>（待补充）</td>
+      <td>《融合用户信息的文本情感分析方法研究》</td>
+      <td> 2018.12</td>
+      <td>（待补充）</td>
+   </tr>
+      <tr>
+      <td>李浩然</td>
+      <td>博士</td>
+      <td>（待补充）</td>
+      <td>《基于多元信息的自动摘要方法研究》</td>
+      <td> 2018.12</td>
+      <td>（待补充）</td>
+   </tr>
+   <tr>
+      <td>彭    勃</td>
+      <td>（待补充）</td>
+      <td>（待补充）</td>
+      <td>《基于成像场景约束的视觉内容真实性取证研究》</td>
+      <td> 2018.07</td>
+      <td>中国科学院自动化研究所</td>
+   </tr>
+      <tr>
+      <td>郝杰东</td>
+      <td>（待补充）</td>
+      <td>（待补充）</td>
+      <td>《基于深度学习的敏感目标检索方法研究》</td>
+      <td> 2018.07</td>
+      <td>（待补充）</td>
+   </tr>
+   <tr>
+      <td>叶    奎</td>
+      <td>（待补充）</td>
+      <td>（待补充）</td>
+      <td>《图像篡改检测方法及其影响评估研究》</td>
+      <td> 2018.07</td>
+      <td>北京比特大陆科技有限公司</td>
+   </tr>
+</table>
 
 | 姓名 | 学位 | 专业 | 论文 | 毕业时间 | 毕业去向 |
 | --- | --- | --- | --- | --- | --- |
