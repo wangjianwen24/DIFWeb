@@ -52,16 +52,16 @@ subtitle = ""
 
 - **目前在读研究生**  
 
-<table border="1" width ="100%">
-   <tr>
-      <td align = "center" width ="10%">姓名</td>
-      <td align = "center" width ="15%">类型</td>
-      <td align = "center" width ="10%">姓名</td>
-      <td align = "center" width ="15%">类型</td>
-      <td align = "center" width ="10%">姓名</td>
-      <td align = "center" width ="15%">类型</td>
-      <td align = "center" width ="10%">姓名</td>
-      <td align = "center" width ="15%">类型</td>
+<table border="1" width ="100%" style="border-color: black">
+   <th>
+      <th align = "center" width ="10%">姓名</th>
+      <th align = "center" width ="15%">类型</th>
+      <th align = "center" width ="10%">姓名</th>
+      <th align = "center" width ="15%">类型</th>
+      <th align = "center" width ="10%">姓名</th>
+      <th align = "center" width ="15%">类型</th>
+      <th align = "center" width ="10%">姓名</th>
+      <th align = "center" width ="15%">类型</th>
    </tr>
    <tr>
       <td align = "center">杜倩龙</td>
@@ -104,13 +104,6 @@ subtitle = ""
       <td align = "center">博士生</td>
    </tr>
 </table>
-
-|   姓名   |   类型   |    姓名   |   类型   |  姓名  |   类型   |  姓名  |   类型   |
-| :------:| :------:|:------: | :------: | :------: | :------: |:------: |:------: |
-|  杜倩龙 |  硕博连读生  |  闫璟辉  | &nbsp;&nbsp;&nbsp;&nbsp;博士生 &nbsp;&nbsp;&nbsp;&nbsp;| 周&nbsp;&nbsp;&nbsp;&nbsp;龙 | 硕博连读生 | 马&nbsp;&nbsp;&nbsp;&nbsp;聪 | 硕博连读生 |
-|  董传海 |  硕博连读生  |  亢晓勉  | &nbsp;&nbsp;&nbsp;&nbsp;直博生 &nbsp;&nbsp;&nbsp;&nbsp;| 李&nbsp;&nbsp;&nbsp;&nbsp;梅 | 硕博连读生 | 向&nbsp;&nbsp;&nbsp;&nbsp;露 | 博士生 |
-|  王亦宁 |  硕博连读生  |  王唯康  |&nbsp;&nbsp;&nbsp;&nbsp;直博生&nbsp;&nbsp;&nbsp;&nbsp; | 刘宇宸 | 硕博连读生 | 孙&nbsp;&nbsp;&nbsp;&nbsp;建 | 博士生 |
-|  朱军楠 |  硕博连读生  |  黄&nbsp;&nbsp;&nbsp;&nbsp;鑫  |&nbsp;&nbsp;&nbsp;&nbsp;博士生&nbsp;&nbsp;&nbsp;&nbsp; | 孙静远 | 硕博连读生 | 王祥宇 | 博士生 |    
 
 - **已经毕业的研究生（以毕业时间为序）**  
   **2019年毕业生**
