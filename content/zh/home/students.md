@@ -114,8 +114,8 @@ subtitle = ""
       <th align = "center" width ="80">姓名</th>
       <th align = "center" width ="80">学位</th>
       <th align = "left" width ="120">专业</th>
-      <th align = "left" width ="300">论文</th>
-      <th align = "left" width ="800">毕业时间</th>
+      <th align = "left" width ="295">论文</th>
+      <th align = "left" width ="85">毕业时间</th>
       <th align = "left" width ="140">毕业去向</th>
    </tr>
    <tr>
@@ -143,8 +143,8 @@ subtitle = ""
       <th align = "center" width ="80">姓名</th>
       <th align = "center" width ="80">学位</th>
       <th align = "left" width ="120">专业</th>
-      <th align = "left" width ="300">论文</th>
-      <th align = "left" width ="80">毕业时间</th>
+      <th align = "left" width ="295">论文</th>
+      <th align = "left" width ="85">毕业时间</th>
       <th align = "left" width ="140">毕业去向</th>
    </tr>
    <tr>
@@ -204,8 +204,8 @@ subtitle = ""
       <th align = "center" width ="80">姓名</th>
       <th align = "center" width ="80">学位</th>
       <th align = "left" width ="120">专业</th>
-      <th align = "left" width ="300">论文</th>
-      <th align = "left" width ="80">毕业时间</th>
+      <th align = "left" width ="295">论文</th>
+      <th align = "left" width ="85">毕业时间</th>
       <th align = "left" width ="140">毕业去向</th>
    </tr>
    <tr>
@@ -225,8 +225,8 @@ subtitle = ""
       <th align = "center" width ="80">姓名</th>
       <th align = "center" width ="80">学位</th>
       <th align = "left" width ="120">专业</th>
-      <th align = "left" width ="300">论文</th>
-      <th align = "left" width ="80">毕业时间</th>
+      <th align = "left" width ="295">论文</th>
+      <th align = "left" width ="85">毕业时间</th>
       <th align = "left" width ="140">毕业去向</th>
    </tr>
    <tr>
@@ -286,8 +286,8 @@ subtitle = ""
       <th align = "center" width ="80">姓名</th>
       <th align = "center" width ="80">学位</th>
       <th align = "left" width ="120">专业</th>
-      <th align = "left" width ="300">论文</th>
-      <th align = "left" width ="80">毕业时间</th>
+      <th align = "left" width ="295">论文</th>
+      <th align = "left" width ="85">毕业时间</th>
       <th align = "left" width ="140">毕业去向</th>
    </tr>
    <tr>
@@ -315,8 +315,8 @@ subtitle = ""
       <th align = "center" width ="80">姓名</th>
       <th align = "center" width ="80">学位</th>
       <th align = "left" width ="120">专业</th>
-      <th align = "left" width ="300">论文</th>
-      <th align = "left" width ="80">毕业时间</th>
+      <th align = "left" width ="295">论文</th>
+      <th align = "left" width ="85">毕业时间</th>
       <th align = "left" width ="140">毕业去向</th>
    </tr>
    <tr>
