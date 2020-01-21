@@ -53,9 +53,6 @@ subtitle = ""
 - **目前在读研究生**  
 
 ```html
-<!DOCTYPE HTML>
-<HTML>
-<body>
 <table border="2" width ="800">
    <tr>
       <td align = "center">姓名</td>
@@ -108,9 +105,6 @@ subtitle = ""
       <td align = "center">博士生</td>
    </tr>
 </table>
-</body>
-</html>
-
 ```
 
 |   姓名   |   类型   |    姓名   |   类型   |  姓名  |   类型   |  姓名  |   类型   |
