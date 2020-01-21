@@ -9,6 +9,7 @@ weight = 100  # Order that this section will appear.
 
 title = "团队"
 subtitle = ""
+columns = "2"
 
 [content]
   # Choose which groups/teams of users to display.
@@ -20,40 +21,6 @@ subtitle = ""
                  "Visitors",
                  "Alumni"]
 
-[design]
-  # Show user's social networking links? (true/false)
-  show_social = false
-
-  # Show user's interests? (true/false)
-  show_interests = true
-
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-  
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
 
 ##学生信息    
 
@@ -114,3 +81,40 @@ subtitle = ""
 | 姓名 | 学位 | 专业 | 论文 | 毕业时间 | 毕业去向 |
 | --- | --- | --- | --- | --- | --- |
 | 关晴骁 | （待补充） | （待补充） | 《通用型图像隐写分析的基础问题研究》| 2013.07 | 集美大学 |
+
+[design]
+  # Show user's social networking links? (true/false)
+  show_social = false
+
+  # Show user's interests? (true/false)
+  show_interests = true
+
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+  
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  # text_color_light = true  
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++
+
+
