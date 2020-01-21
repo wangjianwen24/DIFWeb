@@ -52,8 +52,8 @@ subtitle = ""
 
 - **目前在读研究生**  
 
-<table border="1" width ="100%" style="border-color: black">
-   <th>
+<table border="1" width ="800" style="border-color: black">
+   <tr>
       <th align = "center" width ="10%">姓名</th>
       <th align = "center" width ="15%">类型</th>
       <th align = "center" width ="10%">姓名</th>
