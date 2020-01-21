@@ -52,16 +52,16 @@ subtitle = ""
 
 - **目前在读研究生**  
 
-<table border="2" width ="800">
+<table border="1" width ="100%">
    <tr>
-      <td align = "center">姓名</td>
-      <td align = "center">类型</td>
-      <td align = "center">姓名</td>
-      <td align = "center">类型</td>
-      <td align = "center">姓名</td>
-      <td align = "center">类型</td>
-      <td align = "center">姓名</td>
-      <td align = "center">类型</td>
+      <td align = "center" width ="10%">姓名</td>
+      <td align = "center" width ="15%">类型</td>
+      <td align = "center" width ="10%">姓名</td>
+      <td align = "center" width ="15%">类型</td>
+      <td align = "center" width ="10%">姓名</td>
+      <td align = "center" width ="15%">类型</td>
+      <td align = "center" width ="10%">姓名</td>
+      <td align = "center" width ="15%">类型</td>
    </tr>
    <tr>
       <td align = "center">杜倩龙</td>
