@@ -107,7 +107,7 @@ subtitle = ""
 
 - **已经毕业的研究生（以毕业时间为序）**  
 
-  **2019年毕业生**
+  ** ###2019年毕业生 **
 
 <table border="1" width ="800" style="border-color: black">
    <tr>
@@ -115,8 +115,8 @@ subtitle = ""
       <th align = "center" width ="80">学位</th>
       <th align = "left" width ="120">专业</th>
       <th align = "left" width ="300">论文</th>
-      <th align = "left" width ="120">毕业时间</th>
-      <th align = "left" width ="100">毕业去向</th>
+      <th align = "left" width ="100">毕业时间</th>
+      <th align = "left" width ="120">毕业去向</th>
    </tr>
    <tr>
       <td>赵    阳</td>
@@ -136,7 +136,7 @@ subtitle = ""
    </tr>
 </table>
 
-  **2018年毕业生**
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** ###2018年毕业生 **
 
 <table border="1" width ="800" style="border-color: black">
    <tr>
@@ -144,8 +144,8 @@ subtitle = ""
       <th align = "center" width ="80">学位</th>
       <th align = "left" width ="120">专业</th>
       <th align = "left" width ="300">论文</th>
-      <th align = "left" width ="120">毕业时间</th>
-      <th align = "left" width ="100">毕业去向</th>
+      <th align = "left" width ="100">毕业时间</th>
+      <th align = "left" width ="120">毕业去向</th>
    </tr>
    <tr>
       <td>王少楠</td>
