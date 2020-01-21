@@ -11,9 +11,6 @@ weight = 15  # Order that this section will appear.
 title = "Demo"
 subtitle = ""
 
-[content]
-Welcome to the **personal demo** of academic.  Other demos available include:
-
 [design]
 	# Choose how many columns the section has. Valid values: 1 or 2.
 	Columns = "1"
