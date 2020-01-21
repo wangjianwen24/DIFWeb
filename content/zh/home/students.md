@@ -52,6 +52,67 @@ subtitle = ""
 
 - **目前在读研究生**  
 
+```html
+<!DOCTYPE HTML>
+<HTML>
+<body>
+<table border="2" width ="800">
+   <tr>
+      <td align = "center">姓名</td>
+      <td align = "center">类型</td>
+      <td align = "center">姓名</td>
+      <td align = "center">类型</td>
+      <td align = "center">姓名</td>
+      <td align = "center">类型</td>
+      <td align = "center">姓名</td>
+      <td align = "center">类型</td>
+   </tr>
+   <tr>
+      <td align = "center">杜倩龙</td>
+      <td align = "center">硕博连读生</td>
+      <td align = "center">闫璟辉</td>
+      <td align = "center">博士生</td>
+      <td align = "center">周  龙</td>
+      <td align = "center">硕博连读生</td>
+      <td align = "center">马  聪</td>
+      <td align = "center">硕博连读生</td>
+   </tr>
+   <tr>
+      <td align = "center">董传海</td>
+      <td align = "center">硕博连读生</td>
+      <td align = "center">亢晓勉</td>
+      <td align = "center">直博生</td>
+      <td align = "center">李  梅</td>
+      <td align = "center">硕博连读生</td>
+      <td align = "center">向  露</td>
+      <td align = "center">博士生</td>
+   </tr>
+   <tr>
+      <td align = "center">王亦宁</td>
+      <td align = "center">硕博连读生</td>
+      <td align = "center">王唯康</td>
+      <td align = "center">直博生</td>
+      <td align = "center">刘宇宸</td>
+      <td align = "center">硕博连读生</td>
+      <td align = "center">孙  建</td>
+      <td align = "center">博士生</td>
+   </tr>
+   <tr>
+      <td align = "center">朱军楠</td>
+      <td align = "center">硕博连读生</td>
+      <td align = "center">黄  鑫</td>
+      <td align = "center">博士生</td>
+      <td align = "center">孙静远</td>
+      <td align = "center">硕博连读生</td>
+      <td align = "center">王祥宇</td>
+      <td align = "center">博士生</td>
+   </tr>
+</table>
+</body>
+</html>
+
+```
+
 |   姓名   |   类型   |    姓名   |   类型   |  姓名  |   类型   |  姓名  |   类型   |
 | :------:| :------:|:------: | :------: | :------: | :------: |:------: |:------: |
 |  杜倩龙 |  硕博连读生  |  闫璟辉  | &nbsp;&nbsp;&nbsp;&nbsp;博士生 &nbsp;&nbsp;&nbsp;&nbsp;| 周&nbsp;&nbsp;&nbsp;&nbsp;龙 | 硕博连读生 | 马&nbsp;&nbsp;&nbsp;&nbsp;聪 | 硕博连读生 |
