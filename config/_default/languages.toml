@@ -27,16 +27,16 @@
     url = "#projects"
     weight = 30
   [[zh.menu.main]]
-    name = "招生信息"
-    url = "#teaching"
+    name = "团队人员"
+    url = "#people"
     weight = 40
   [[zh.menu.main]]
     name = "学生信息"
     url = "#students"
-    weight = 40	
+    weight = 50	
   [[zh.menu.main]]
-    name = "团队人员"
-    url = "#people"
-    weight = 40
+    name = "招生信息"
+    url = "#teaching"
+    weight = 60
 
 
