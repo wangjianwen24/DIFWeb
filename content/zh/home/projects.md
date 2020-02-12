@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "科研项目"
@@ -74,4 +74,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+- National Natural Science Foundation of China 61772529 (Jing Dong)
+- National Natural Science Foundation of China U1636201 (Jing Dong)
+- National Key Research and Development Program of China 2016YFB1001003 (Jing Dong)
+- National Natural Science Foundation of China U1736119 (Wei Wang)
+- Beijing Natural Science Foundation 4192058 (Wei Wang)
+- National Natural Science Foundation of China 61972395 (Wei Wang)
+- National Natural Science Foundation of China 61902400 (Bo Peng) 
 
