@@ -79,5 +79,5 @@ subtitle = ""
 
 <h2>联系我们</h2>
 
-电子邮箱：    
-地&nbsp;&nbsp;&nbsp;&nbsp;址：北京市海淀区中关村东路95号
+电子邮箱：XXXXXXX@ia.ac.cn    
+地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;址：北京市海淀区中关村东路95号智能化大厦智能感知与计算研究中心
