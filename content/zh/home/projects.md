@@ -48,10 +48,8 @@ subtitle = ""
 
 +++
 
-- National Natural Science Foundation of China 61772529 (Jing Dong)
-- National Natural Science Foundation of China U1636201 (Jing Dong)
-- National Key Research and Development Program of China 2016YFB1001003 (Jing Dong)
-- National Natural Science Foundation of China U1736119 (Wei Wang)
-- Beijing Natural Science Foundation 4192058 (Wei Wang)
-- National Natural Science Foundation of China 61972395 (Wei Wang)
-- National Natural Science Foundation of China 61902400 (Bo Peng) 
+- 国家自然科学基金 U1736119
+- 国家自然科学基金面上项目 61972395
+- 国家自然科学基金 61502496（已结题）
+- 北京市自然科学基金 4192058
+- 北京市自然科学基金 4164102（已结题）
