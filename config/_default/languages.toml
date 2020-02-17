@@ -11,13 +11,17 @@
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
-  title = "王伟-中国科学院自动化研究所"
+  title = "董晶-中国科学院自动化研究所"
   [zh.params]
-    description = "王伟的个人主页"
+    description = "董晶的个人主页"
   [[zh.menu.main]]
     name = "个人简介"
     url = "#about"
     weight = 10
+  [[zh.menu.main]]
+    name = "学术任职"
+    url = "#accomplishments"
+    weight = 20
   [[zh.menu.main]]
     name = "学术论文"
     url = "#featured"
@@ -31,7 +35,7 @@
     url = "#people"
     weight = 40
   [[zh.menu.main]]
-    name = "学生信息"
+    name = "毕业生信息"
     url = "#students"
     weight = 50	
   [[zh.menu.main]]

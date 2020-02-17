@@ -47,7 +47,7 @@ social:
   link: 'jdong@nlpr.ia.ac.cn'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=Om9jSl8AAAAJ
+  link: 
   
 
 # Link to a PDF of your resume/CV from the About widget.
