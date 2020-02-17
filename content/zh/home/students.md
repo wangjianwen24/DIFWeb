@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "学生信息"
+title = "毕业生信息"
 subtitle = ""
 
 [design]
@@ -49,41 +49,6 @@ subtitle = ""
 	#CSS class.
 	css_class = ""
 +++
-
-- **目前在读研究生**  
-
-<table border="1" width ="800" style="border-color: black">
-   <tr>
-      <th align = "center" width ="80">姓名</th>
-      <th align = "center" width ="120">类型</th>
-      <th align = "center" width ="80">姓名</th>
-      <th align = "center" width ="120">类型</th>
-      <th align = "center" width ="80">姓名</th>
-      <th align = "center" width ="120">类型</th>
-      <th align = "center" width ="80">姓名</th>
-      <th align = "center" width ="120">类型</th>
-   </tr>
-   <tr>
-      <td align = "center">何子文</td>
-      <td align = "center">硕博连读生</td>
-      <td align = "center">管伟楠</td>
-      <td align = "center">硕博连读生</td>
-      <td align = "center">马天翔</td>
-      <td align = "center">硕博连读生</td>
-      <td align = "center">吕月明</td>
-      <td align = "center">硕博连读生</td>
-   </tr>
-   <tr>
-      <td align = "center">樊红兴</td>
-      <td align = "center">硕士生</td>
-      <td align = "center">卞明运</td>
-      <td align = "center">硕士生</td>
-      <td align = "center">轩心升</td>
-      <td align = "center">硕士生</td>
-      <td align = "center">张时润</td>
-      <td align = "center">硕士生</td>
-   </tr>
-</table>
 
 - **已经毕业的研究生（以毕业时间为序）**  
 

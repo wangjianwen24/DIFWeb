@@ -4,7 +4,7 @@ name: 董 晶
 
 # Username (this should match the folder name)
 authors:
-- jdong
+- Jing Dong
 
 # Is this the primary user of the site?
 superuser: true

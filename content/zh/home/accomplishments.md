@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 18  # Order that this section will appear.
 
-title = "个人荣誉"
+title = "学术任职"
 subtitle = ""
 
 # Date format
@@ -19,18 +19,69 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "人工智能学会"
-  organization_url = "http://caai.cn"
-  title = "人工智能学会吴文俊优秀青年奖"
-  date_start = "2018-11-01"
+  organization = "IEEE"
+  organization_url = "http://"
+  title = "IEEE亚太区执委"
+  date_start = "2017-01-01"
   date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "IEEE"
+  organization_url = "http://"
+  title = "IEEE北京分会执委"
+  date_start = "2010-01-01"
+  date_end = "2017-01-01"
   description = ""
 
 [[item]]
-  organization = "北京市科学技术协会"
-  organization_url = "http://www.bast.net.cn"
-  title = "北京市青年人才托举计划"
-  date_start = "2017-03-01"
-  date_end = "2019-11-30"
+  organization = "Journal of information Security and Application"
+  organization_url = "http://"
+  title = "Journal of information Security and Application 期刊副主编"
+  date_start = "2016-01-01"
+  date_end = "2017-01-01"
+  description = ""
+ 
+[[item]]
+  organization = "IEEE"
+  organization_url = "http://"
+  title = "IEEE MGA委员会委员"
+  date_start = "2016-01-01"
+  date_end = "2017-01-01"
+  description = ""
+ 
+[[item]]
+  organization = "中国人工智能学会"
+  organization_url = "http://"
+  title = "中国人工智能学会 副秘书长"
+  date_start = "2014-01-01"
+  date_end = "2019-12-31"
+  
+[[item]]
+  organization = "中国人工智能学会"
+  organization_url = "http://"
+  title = "中国人工智能学会 副秘书长"
+  date_start = "2014-01-01"
+  date_end = "2019-12-31"
+  
+[[item]]
+  organization = "中国计算机学会"
+  organization_url = "http://"
+  title = "中国计算机学会视觉专委会 委员"
+  date_start = "2012-01-01"
+  date_end = ""
+  
+[[item]]
+  organization = "北京图象图形学学会"
+  organization_url = "http://"
+  title = "北京图象图形学学会 理事 "
+  date_start = "2014-01-01"
+  date_end = "2019-12-31"
 
+[[item]]
+  organization = "中国电子学会"
+  organization_url = "http://"
+  title = "中国电子学会通信学分会多媒体信息安全委员会委员"
+  date_start = "2010-01-01"
+  date_end = ""
 +++
