@@ -4,13 +4,13 @@ name: 王 伟
 
 # Username (this should match the folder name)
 authors:
-- admin
+- "Wei Wang"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 副教授，硕导
+role: 副研究员，硕导
 
 # Organizations/Affiliations
 organizations:
@@ -29,10 +29,10 @@ education:
   courses:
   - course: 博士
     institution: 中国科学院自动化研究所
-    year: 2012
+    year: 2007-2012
   - course: 学士
     institution: 华北电力大学（北京）
-    year: 2007
+    year: 2003-2007
 
 
 # Social/Academic Networking
@@ -42,10 +42,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:wei.wong@ia.ac.cn'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Om9jSl8AAAAJ
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/wei-wang335/
+  
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -54,12 +58,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "wei.wong@ia.ac.cn"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- 科研人员
 
 ---
 
