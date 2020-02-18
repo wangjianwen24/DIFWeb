@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "何子文"
+name: "Ziwen He"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 硕博生
+role: Master
 
 # Organizations/Affiliations
 organizations:
@@ -63,5 +63,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 在读学生
+- Students
 ---

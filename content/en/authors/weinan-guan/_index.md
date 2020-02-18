@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "管伟楠"
+name: "Weinan Guan"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -63,5 +63,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 在读学生
+- Students
 ---

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "彭 勃"
+name: "Bo Peng"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 助理研究员
+role: Assistant Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -63,6 +63,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 科研人员
-- 毕业生
+- Researchers
+
 ---

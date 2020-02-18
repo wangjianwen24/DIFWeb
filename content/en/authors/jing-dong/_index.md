@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Prof, Master Tutor
+role: Associate Prof., Master Tutor
 
 # Organizations/Affiliations
 organizations:
 - name: Institute of Automation, Chinese Academy of Sciences
-  url: "http://www.ia.cas.cn/"
+  url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mainly engaged in the research work of multimedia content security, artificial intelligence security, multimodal content analysis and understanding.
@@ -64,8 +64,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 负责人
-- 科研人员
+- Administration
+- Researchers
 
 ---
 

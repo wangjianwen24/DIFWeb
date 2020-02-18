@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "科研项目"
+title = "Projects"
 subtitle = ""
 
 [design]
@@ -48,10 +48,12 @@ subtitle = ""
 
 +++
 
-- National Natural Science Foundation of China 61772529 (Jing Dong)
-- National Natural Science Foundation of China U1636201 (Jing Dong)
-- National Key Research and Development Program of China 2016YFB1001003 (Jing Dong)
-- National Natural Science Foundation of China U1736119 (Wei Wang)
-- Beijing Natural Science Foundation 4192058 (Wei Wang)
-- National Natural Science Foundation of China 61972395 (Wei Wang)
-- National Natural Science Foundation of China 61902400 (Bo Peng) 
+- National Natural Science Foundation of China 61772529   
+- National Natural Science Foundation of China U1636201   
+- National key R & D plan 2016YFB1001003  
+- National Natural Science Foundation of China 61303262 (already concluded)
+- National Natural Science Foundation of China U1536120 (already concluded)
+- National basic R & D plan 2012CB316300  (already concluded)
+- National key R & D plan 2012BAH04F02  (already concluded)
+- National Natural Science Foundation of China U1536110      (already concluded)
+- Open project of National Laboratory of pattern recognition 201600003   (already concluded)

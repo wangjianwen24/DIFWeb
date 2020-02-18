@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 14  # Order that this section will appear.
 
-title = "工作经历"
+title = "Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,18 +18,18 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "助理研究员"
-  company = "中国科学院自动化研究所"
-  company_url = "http://www.ia.cas.cn/"
-  location = "北京"
+  title = "Assistant Research Fellow"
+  company = "Institute of Automation, Chinese Academy of Sciences"
+  company_url = "http://english.ia.cas.cn/"
+  location = "Bei Jing"
   date_start = "2012-07-11"
   date_end = "2017-10-31"
 
 [[experience]]
-  title = "副研究员"
-  company = "中国科学院自动化研究所"
-  company_url = "http://www.ia.cas.cn/"
-  location = "北京"
+  title = "Associate Research Fellow"
+  company = "Institute of Automation, Chinese Academy of Sciences"
+  company_url = "http://english.ia.cas.cn/"
+  location = "Bei Jing"
   date_start = "2017-11-01"
   date_end = ""
 

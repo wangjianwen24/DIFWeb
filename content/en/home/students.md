@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "学生信息"
+title = "Graduate Students"
 subtitle = ""
 
 [design]
@@ -50,281 +50,112 @@ subtitle = ""
 	css_class = ""
 +++
 
-- **目前在读研究生**  
+- **Graduates (in order of graduation time)**  
+
+  **Graduates in 2018**
 
 <table border="1" width ="800" style="border-color: black">
    <tr>
-      <th align = "center" width ="80">姓名</th>
-      <th align = "center" width ="120">类型</th>
-      <th align = "center" width ="80">姓名</th>
-      <th align = "center" width ="120">类型</th>
-      <th align = "center" width ="80">姓名</th>
-      <th align = "center" width ="120">类型</th>
-      <th align = "center" width ="80">姓名</th>
-      <th align = "center" width ="120">类型</th>
+      <th align = "center" width ="80">Name</th>
+      <th align = "center" width ="80">Academic Degree</th>
+      <th align = "left" width ="120">Major</th>
+      <th align = "left" width ="295">Paper</th>
+      <th align = "left" width ="85">Graduation Time</th>
+      <th align = "left" width ="140">Graduation Destination</th>
    </tr>
    <tr>
-      <td align = "center">杜倩龙</td>
-      <td align = "center">硕博连读生</td>
-      <td align = "center">闫璟辉</td>
-      <td align = "center">博士生</td>
-      <td align = "center">周    龙</td>
-      <td align = "center">硕博连读生</td>
-      <td align = "center">马    聪</td>
-      <td align = "center">硕博连读生</td>
-   </tr>
-   <tr>
-      <td align = "center">董传海</td>
-      <td align = "center">硕博连读生</td>
-      <td align = "center">亢晓勉</td>
-      <td align = "center">直博生</td>
-      <td align = "center">李    梅</td>
-      <td align = "center">硕博连读生</td>
-      <td align = "center">向    露</td>
-      <td align = "center">博士生</td>
-   </tr>
-   <tr>
-      <td align = "center">王亦宁</td>
-      <td align = "center">硕博连读生</td>
-      <td align = "center">王唯康</td>
-      <td align = "center">直博生</td>
-      <td align = "center">刘宇宸</td>
-      <td align = "center">硕博连读生</td>
-      <td align = "center">孙    建</td>
-      <td align = "center">博士生</td>
-   </tr>
-   <tr>
-      <td align = "center">朱军楠</td>
-      <td align = "center">硕博连读生</td>
-      <td align = "center">黄    鑫</td>
-      <td align = "center">博士生</td>
-      <td align = "center">孙静远</td>
-      <td align = "center">硕博连读生</td>
-      <td align = "center">王祥宇</td>
-      <td align = "center">博士生</td>
-   </tr>
-</table>
-
-- **已经毕业的研究生（以毕业时间为序）**  
-
-  **2019年毕业生**
-
-<table border="1" width ="800" style="border-color: black">
-   <tr>
-      <th align = "center" width ="80">姓名</th>
-      <th align = "center" width ="80">学位</th>
-      <th align = "left" width ="120">专业</th>
-      <th align = "left" width ="295">论文</th>
-      <th align = "left" width ="85">毕业时间</th>
-      <th align = "left" width ="140">毕业去向</th>
-   </tr>
-   <tr>
-      <td>赵    阳</td>
-      <td>博士</td>
-      <td>（待补充）</td>
-      <td>《增强译文忠实度的神经机器翻译方法研究》</td>
-      <td> 2019.06</td>
-      <td>（待补充）</td>
-   </tr>
-   <tr>
-      <td>刘    洋</td>
-      <td>博士</td>
-      <td>（待补充）</td>
-      <td>《篇章关系识别方法研究与应用》</td>
-      <td> 2019.06</td>
-      <td>（待补充）</td>
-   </tr>
-</table>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2018年毕业生**
-
-<table border="1" width ="800" style="border-color: black">
-   <tr>
-      <th align = "center" width ="80">姓名</th>
-      <th align = "center" width ="80">学位</th>
-      <th align = "left" width ="120">专业</th>
-      <th align = "left" width ="295">论文</th>
-      <th align = "left" width ="85">毕业时间</th>
-      <th align = "left" width ="140">毕业去向</th>
-   </tr>
-   <tr>
-      <td>王少楠</td>
-      <td>博士</td>
-      <td>（待补充）</td>
-      <td>《文本向量表示方法研究》</td>
-      <td> 2018.06</td>
-      <td>（待补充）</td>
-   </tr>
-   <tr>
-      <td>李俊杰</td>
-      <td>博士</td>
-      <td>（待补充）</td>
-      <td>《融合用户信息的文本情感分析方法研究》</td>
-      <td> 2018.12</td>
-      <td>（待补充）</td>
-   </tr>
-      <tr>
-      <td>李浩然</td>
-      <td>博士</td>
-      <td>（待补充）</td>
-      <td>《基于多元信息的自动摘要方法研究》</td>
-      <td> 2018.12</td>
-      <td>（待补充）</td>
-   </tr>
-   <tr>
-      <td>彭    勃</td>
-      <td>（待补充）</td>
-      <td>（待补充）</td>
+      <td>Bo Peng</td>
+      <td>Doctor</td>
+      <td>Pattern Recognition and Intelligent System</td>
       <td>《基于成像场景约束的视觉内容真实性取证研究》</td>
       <td> 2018.07</td>
-      <td>中国科学院自动化研究所</td>
+      <td>Institute of Automation, Chinese Academy of Sciences</td>
    </tr>
       <tr>
-      <td>郝杰东</td>
-      <td>（待补充）</td>
-      <td>（待补充）</td>
+      <td>Jiedong Hao</td>
+      <td>Mastor</td>
+      <td>Pattern Recognition and Intelligent System</td>
       <td>《基于深度学习的敏感目标检索方法研究》</td>
       <td> 2018.07</td>
-      <td>（待补充）</td>
+      <td></td>
    </tr>
    <tr>
-      <td>叶    奎</td>
-      <td>（待补充）</td>
-      <td>（待补充）</td>
+      <td>Kui Ye</td>
+      <td>Mastor</td>
+      <td>Computer Application</td>
       <td>《图像篡改检测方法及其影响评估研究》</td>
       <td> 2018.07</td>
-      <td>北京比特大陆科技有限公司</td>
+      <td>Beijing bitcontinental Technology Co., Ltd</td>
    </tr>
 </table>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2017年毕业生**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Graduates in 2017**
 
 <table border="1" width ="800" style="border-color: black">
    <tr>
-      <th align = "center" width ="80">姓名</th>
-      <th align = "center" width ="80">学位</th>
-      <th align = "left" width ="120">专业</th>
-      <th align = "left" width ="295">论文</th>
-      <th align = "left" width ="85">毕业时间</th>
-      <th align = "left" width ="140">毕业去向</th>
+      <th align = "center" width ="80">Name</th>
+      <th align = "center" width ="80">Academic Degree</th>
+      <th align = "left" width ="120">Major</th>
+      <th align = "left" width ="295">Paper</th>
+      <th align = "left" width ="85">Graduation Time</th>
+      <th align = "left" width ="140">Graduation Destination</th>
    </tr>
    <tr>
-      <td>钱银龙</td>
-      <td>（待补充）</td>
-      <td>（待补充）</td>
+      <td>Yinlong Qian</td>
+      <td>Doctor</td>
+      <td>Pattern Recognition and Intelligent System</td>
       <td>《基于深度学习的图像隐写分析方法研究》</td>
       <td> 2017.12</td>
-      <td>北京三星通信技术研究有限公司</td>
+      <td>Beijing Samsung Communication Technology Research Co., Ltd</td>
    </tr>
 </table>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**20XX年毕业生**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Graduates in 2015**
 
 <table border="1" width ="800" style="border-color: black">
    <tr>
-      <th align = "center" width ="80">姓名</th>
-      <th align = "center" width ="80">学位</th>
-      <th align = "left" width ="120">专业</th>
-      <th align = "left" width ="295">论文</th>
-      <th align = "left" width ="85">毕业时间</th>
-      <th align = "left" width ="140">毕业去向</th>
+      <th align = "center" width ="80">Name</th>
+      <th align = "center" width ="80">Academic Degree</th>
+      <th align = "left" width ="120">Major</th>
+      <th align = "left" width ="295">Paper</th>
+      <th align = "left" width ="85">Graduation Time</th>
+      <th align = "left" width ="140">Graduation Destination</th>
    </tr>
    <tr>
-      <td>吴    倩</td>
-      <td>硕士</td>
-      <td>081104-模式识别与智能系统</td>
-      <td>（待补充）</td>
-      <td> 待补充）</td>
-      <td>（待补充）</td>
-   </tr>
-   <tr>
-      <td>张    静</td>
-      <td>硕士</td>
-      <td>081104-模式识别与智能系统</td>
-      <td>（待补充）</td>
-      <td> 待补充）</td>
-      <td>（待补充）</td>
-   </tr>
-   <tr>
-      <td>陈铎文</td>
-      <td>硕士</td>
-      <td>081104-模式识别与智能系统</td>
-      <td>（待补充）</td>
-      <td> 待补充）</td>
-      <td>（待补充）</td>
-   </tr>
-   <tr>
-      <td>彭    曦</td>
-      <td>硕士</td>
-      <td>081104-模式识别与智能系统</td>
-      <td>（待补充）</td>
-      <td> 待补充）</td>
-      <td>（待补充）</td>
-   </tr>
-   <tr>
-      <td>李昕璨</td>
-      <td>硕士</td>
-      <td>081104-模式识别与智能系统</td>
-      <td>（待补充）</td>
-      <td> 待补充）</td>
-      <td>（待补充）</td>
-   </tr>
-   <tr>
-      <td>白延成</td>
-      <td>博士</td>
-      <td>081104-模式识别与智能系统</td>
-      <td>（待补充）</td>
-      <td> 待补充）</td>
-      <td>（待补充）</td>
-   </tr>
-</table>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2015年毕业生**
-
-<table border="1" width ="800" style="border-color: black">
-   <tr>
-      <th align = "center" width ="80">姓名</th>
-      <th align = "center" width ="80">学位</th>
-      <th align = "left" width ="120">专业</th>
-      <th align = "left" width ="295">论文</th>
-      <th align = "left" width ="85">毕业时间</th>
-      <th align = "left" width ="140">毕业去向</th>
-   </tr>
-   <tr>
-      <td>王再冉</td>
-      <td>（待补充）</td>
-      <td>（待补充）</td>
+      <td>Zairan Wang</td>
+      <td>Doctor</td>
+      <td>Pattern Recognition and Intelligent System</td>
       <td>《数字图像水印及其在虹膜系统中的应用研究》</td>
       <td> 2015.07</td>
-      <td>北京快手科技有限公司</td>
+      <td>Beijing Kwai Technology Co., Ltd.</td>
    </tr>
    <tr>
-      <td>许锡楷</td>
-      <td>（待补充）</td>
-      <td>（待补充）</td>
+      <td>Xikai Xu许锡楷</td>
+      <td>Doctor</td>
+      <td>Pattern Recognition and Intelligent System</td>
       <td>《基于局部信息的隐写分析方法研究》</td>
       <td> 2015.12</td>
-      <td>中国电子科学研究院</td>
+      <td>China Academy of Electronic Science</td>
    </tr>
 </table>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2013年毕业生**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Graduates in 2013**
 
 <table border="1" width ="800" style="border-color: black">
    <tr>
-      <th align = "center" width ="80">姓名</th>
-      <th align = "center" width ="80">学位</th>
-      <th align = "left" width ="120">专业</th>
-      <th align = "left" width ="295">论文</th>
-      <th align = "left" width ="85">毕业时间</th>
-      <th align = "left" width ="140">毕业去向</th>
+      <th align = "center" width ="80">Name</th>
+      <th align = "center" width ="80">Academic Degree</th>
+      <th align = "left" width ="120">Major</th>
+      <th align = "left" width ="295">Paper</th>
+      <th align = "left" width ="85">Graduation Time</th>
+      <th align = "left" width ="140">Graduation Destination</th>
    </tr>
    <tr>
-      <td>关晴骁</td>
-      <td>（待补充）</td>
-      <td>（待补充）</td>
+      <td>Qingxiao Guan</td>
+      <td>Doctor</td>
+      <td>Pattern Recognition and Intelligent System</td>
       <td>《通用型图像隐写分析的基础问题研究》</td>
       <td> 2013.07</td>
-      <td>集美大学</td>
+      <td>Jimei University</td>
    </tr>
 </table>

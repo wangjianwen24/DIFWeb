@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 18  # Order that this section will appear.
 
-title = "个人荣誉"
+title = "Academic Post"
 subtitle = ""
 
 # Date format
@@ -19,18 +19,69 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "人工智能学会"
-  organization_url = "http://caai.cn"
-  title = "人工智能学会吴文俊优秀青年奖"
-  date_start = "2018-11-01"
+  organization = "IEEE"
+  organization_url = "http://"
+  title = "Executive Committee of IEEE Asia Pacific"
+  date_start = "2017-01-01"
   date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "IEEE"
+  organization_url = "http://"
+  title = "Executive Committee of IEEE Beijing Branch"
+  date_start = "2010-01-01"
+  date_end = "2017-01-01"
   description = ""
 
 [[item]]
-  organization = "北京市科学技术协会"
-  organization_url = "http://www.bast.net.cn"
-  title = "北京市青年人才托举计划"
-  date_start = "2017-03-01"
-  date_end = "2019-11-30"
+  organization = "Journal of information Security and Application"
+  organization_url = "http://"
+  title = "Journal of information Security and Application, Associate Editor"
+  date_start = "2016-01-01"
+  date_end = "2017-01-01"
+  description = ""
+ 
+[[item]]
+  organization = "IEEE"
+  organization_url = "http://"
+  title = "Member of IEEE MGA Committee"
+  date_start = "2016-01-01"
+  date_end = "2017-01-01"
+  description = ""
+ 
+[[item]]
+  organization = "China Artificial Intelligence Society"
+  organization_url = "http://"
+  title = "Deputy Secretary General of China Artificial Intelligence Society"
+  date_start = "2014-01-01"
+  date_end = "2019-12-31"
+  
+[[item]]
+  organization = "China Artificial Intelligence Society"
+  organization_url = "http://"
+  title = "Deputy Secretary General of China Artificial Intelligence Society"
+  date_start = "2014-01-01"
+  date_end = "2019-12-31"
+  
+[[item]]
+  organization = "China Computer Society"
+  organization_url = "http://"
+  title = "Member of Vision Committee of China Computer Society"
+  date_start = "2012-01-01"
+  date_end = ""
+  
+[[item]]
+  organization = "Beijing Institute of image graphics"
+  organization_url = "http://"
+  title = "Director of Beijing Institute of image graphics"
+  date_start = "2014-01-01"
+  date_end = "2019-12-31"
 
+[[item]]
+  organization = "China Electronics Society"
+  organization_url = "http://"
+  title = "Member of multimedia information security committee of communication branch of China Electronic Society"
+  date_start = "2010-01-01"
+  date_end = ""
 +++
