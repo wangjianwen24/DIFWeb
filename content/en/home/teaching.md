@@ -79,7 +79,7 @@ subtitle = ""
 
 <h2>Contact Us</h2>
 
-Email：jdong at nlpr.ia.ac.cn    
+Email：jdong_at_nlpr.ia.ac.cn    
 Tel. ：010-82544641    
 Addr ：北京市海淀区中关村东路95号智能化大厦1504    
 Postal Code：100190

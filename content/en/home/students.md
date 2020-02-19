@@ -60,7 +60,7 @@ subtitle = ""
       <th align = "center" width ="80">Academic Degree</th>
       <th align = "left" width ="120">Major</th>
       <th align = "left" width ="295">Paper</th>
-      <th align = "left" width ="85">Graduation Time</th>
+      <th align = "left" width ="85">Graduation Date</th>
       <th align = "left" width ="140">Graduation Destination</th>
    </tr>
    <tr>
@@ -75,7 +75,7 @@ subtitle = ""
       <td>Jiedong Hao</td>
       <td>Mastor</td>
       <td>Pattern Recognition and Intelligent System</td>
-      <td>《基于深度学习的敏感目标检索方法研究》</td>
+      <td> Research on Sensitive Object Retrieval Based on Deep Learning</td>
       <td> 2018.07</td>
       <td></td>
    </tr>
@@ -83,7 +83,7 @@ subtitle = ""
       <td>Kui Ye</td>
       <td>Mastor</td>
       <td>Computer Application</td>
-      <td>《图像篡改检测方法及其影响评估研究》</td>
+      <td>A Research on Image Forgery Forensics and the Evaluation of its Influences on the Original Image</td>
       <td> 2018.07</td>
       <td>Beijing bitcontinental Technology Co., Ltd</td>
    </tr>
@@ -97,14 +97,14 @@ subtitle = ""
       <th align = "center" width ="80">Academic Degree</th>
       <th align = "left" width ="120">Major</th>
       <th align = "left" width ="295">Paper</th>
-      <th align = "left" width ="85">Graduation Time</th>
+      <th align = "left" width ="85">Graduation Date</th>
       <th align = "left" width ="140">Graduation Destination</th>
    </tr>
    <tr>
       <td>Yinlong Qian</td>
       <td>Doctor</td>
       <td>Pattern Recognition and Intelligent System</td>
-      <td>《基于深度学习的图像隐写分析方法研究》</td>
+      <td>Image Steganalysis Based on Deep Learning</td>
       <td> 2017.12</td>
       <td>Beijing Samsung Communication Technology Research Co., Ltd</td>
    </tr>
@@ -118,7 +118,7 @@ subtitle = ""
       <th align = "center" width ="80">Academic Degree</th>
       <th align = "left" width ="120">Major</th>
       <th align = "left" width ="295">Paper</th>
-      <th align = "left" width ="85">Graduation Time</th>
+      <th align = "left" width ="85">Graduation Date</th>
       <th align = "left" width ="140">Graduation Destination</th>
    </tr>
    <tr>
@@ -130,10 +130,10 @@ subtitle = ""
       <td>Beijing Kwai Technology Co., Ltd.</td>
    </tr>
    <tr>
-      <td>Xikai Xu许锡楷</td>
+      <td>Xikai Xu</td>
       <td>Doctor</td>
       <td>Pattern Recognition and Intelligent System</td>
-      <td>《基于局部信息的隐写分析方法研究》</td>
+      <td>Steganalysis Based on Local Information</td>
       <td> 2015.12</td>
       <td>China Academy of Electronic Science</td>
    </tr>
@@ -147,14 +147,14 @@ subtitle = ""
       <th align = "center" width ="80">Academic Degree</th>
       <th align = "left" width ="120">Major</th>
       <th align = "left" width ="295">Paper</th>
-      <th align = "left" width ="85">Graduation Time</th>
+      <th align = "left" width ="85">Graduation Date</th>
       <th align = "left" width ="140">Graduation Destination</th>
    </tr>
    <tr>
       <td>Qingxiao Guan</td>
       <td>Doctor</td>
       <td>Pattern Recognition and Intelligent System</td>
-      <td>《通用型图像隐写分析的基础问题研究》</td>
+      <td>Research on Fundamental Problems of Universal Image Steganalysis</td>
       <td> 2013.07</td>
       <td>Jimei University</td>
    </tr>
