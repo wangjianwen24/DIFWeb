@@ -54,7 +54,7 @@ subtitle = ""
 - 081203 - computer application (under the first level discipline of computer science and Technology)
 
 <hr/>
-<h2>Enrollment Orientation</h2>
+<h2>Recruit Orientation</h2>
 
 
 1. Multimedia content understanding and security;
@@ -67,7 +67,7 @@ subtitle = ""
 
 <hr/>
 
-<h2>Enrollment Type</h2>
+<h2>Recruit Type</h2>
 
 
 1. Doctoral candidates;
