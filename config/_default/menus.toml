@@ -4,37 +4,37 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "HOME"
   url = "#about"
   weight = 10
   
 [[main]]
-  name = "Academic Post"
+  name = "SERVICE"
   url = "#accomplishments"
   weight = 18
 
 [[main]]
-  name = "Papers"
+  name = "PUBLICATIONS"
   url = "#featured"
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "PROJECTS"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "Researchers"
+  name = "LAB"
   url = "#people"
   weight = 110
 
 [[main]]
-  name = "Students"
+  name = "ALUMNI"
   url = "#students"
   weight = 50
   
 [[main]]
-  name = "Enrollment Information"
+  name = "RECRUIT"
   url = "#teaching"
   weight = 60
 
