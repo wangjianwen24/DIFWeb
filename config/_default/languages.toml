@@ -24,7 +24,7 @@
     weight = 20
   [[zh.menu.main]]
     name = "学术论文"
-    url = "#featured"
+    url = "#publications"
     weight = 20
   [[zh.menu.main]]
     name = "科研项目"
