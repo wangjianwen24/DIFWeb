@@ -1,16 +1,16 @@
 ---
 # Display name
-name: "晋杰"
+name: Jie Jin
 
-# Username (this should match the folder name and the name on publications)
+# Username (this should match the folder name)
 authors:
-- Name "Jie Jin"
+- Jie Jin
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position (e.g., Professor of Artificial Intelligence)
-role:Engineers
+# Role/position
+role: Students
 
 # Organizations/Affiliations
 organizations:
@@ -18,21 +18,23 @@ organizations:
   url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: XXX
+bio: 主要从事计算机视觉、深度学习、内容安全等方面研究工作。
 
-# List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- 人工智能
+- 计算机视觉
+- 模式识别
+- 信息安全
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: 硕士
+    institution: 中科院自动化研究所
+    year: 2019 - 至今
+  - course: 学士
+    institution: 郑州大学
+    year: 2015 - 2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,13 +43,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: 'tianxiang.ma@cripac.ia.ac.cn'  # For a direct email link, use "mailto:test@example.org".
+
+  
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,12 +54,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "XXX@XXX"
+email: "tianxiang.ma@cripac.ia.ac.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Engineers
+- Students
+
 ---
 
-Jie Jin, Students. XXX
+Jie Jin，硕士在读，主要从事人工智能、计算机视觉、模式识别、内容安全等方面的学术研究工作。
