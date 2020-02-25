@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 副研究员，硕导
+role: Researchers
 
 # Organizations/Affiliations
 organizations:
