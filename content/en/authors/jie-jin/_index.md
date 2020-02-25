@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Students
+role: Engineers
 
 # Organizations/Affiliations
 organizations:
