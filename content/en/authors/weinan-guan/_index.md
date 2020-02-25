@@ -14,8 +14,8 @@ role: Students
 
 # Organizations/Affiliations
 organizations:
-- name: 中国科学院大学
-  url: "https://www.ucas.ac.cn/"
+- name: Institute of Automation, Chinese Academy of Sciences
+  url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 主要以多模态信息不一致性检测为研究方向，进行研究生科研工作。

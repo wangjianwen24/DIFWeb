@@ -14,8 +14,8 @@ role: Assistant Researchers
 
 # Organizations/Affiliations
 organizations:
-- name: 中国科学院自动化研究所
-  url: "http://www.ia.cas.cn/"
+- name: Institute of Automation, Chinese Academy of Sciences
+  url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

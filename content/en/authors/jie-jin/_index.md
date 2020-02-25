@@ -14,8 +14,8 @@ role:Engineers
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: Institute of Automation, Chinese Academy of Sciences
+  url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

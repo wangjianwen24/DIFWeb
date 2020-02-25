@@ -14,8 +14,8 @@ role: Engineers
 
 # Organizations/Affiliations
 organizations:
-- name: 中国科学院自动化研究所
-  url: "http://www.ia.cas.cn/"
+- name: Institute of Automation, Chinese Academy of Sciences
+  url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 主要从事项目管理，项目测试等工作。
@@ -59,6 +59,7 @@ email: "jianwen.wang@nlpr.ia.ac.cn"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Engineers
+
 ---
 
 李博蕊，学士，工程师，主要从事项目管理，项目测试等工作。

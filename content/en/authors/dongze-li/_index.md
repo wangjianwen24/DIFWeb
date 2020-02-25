@@ -14,8 +14,8 @@ role: Students
 
 # Organizations/Affiliations
 organizations:
-- name: 中国科学院自动化研究所
-  url: "http://www.ia.cas.cn/"
+- name: Institute of Automation, Chinese Academy of Sciences
+  url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 自动化所2020级硕士研究生。
@@ -55,7 +55,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 在读学生
+- Students
 
 ---
 
