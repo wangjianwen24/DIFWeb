@@ -58,7 +58,7 @@ email: "jianwen.wang@nlpr.ia.ac.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 工程师
+- Engineers
 ---
 
 李博蕊，学士，工程师，主要从事项目管理，项目测试等工作。

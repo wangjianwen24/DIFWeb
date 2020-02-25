@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 工程师
+- Engineers
 
 ---
 （个人简介，可详细介绍）

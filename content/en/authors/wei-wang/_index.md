@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Researchers
+role: Researchers, Master Tutor
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 科研人员
+- Researchers
 
 ---
 

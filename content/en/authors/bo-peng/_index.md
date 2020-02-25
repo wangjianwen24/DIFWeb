@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Researchers
+role: Assistant Researchers
 
 # Organizations/Affiliations
 organizations:
@@ -60,6 +60,6 @@ email: "bo.peng@nlpr.ia.ac.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
--  科研人员
+-  Researchers
 ---
 彭勃，中国科学院自动化研究所助理研究员，2013年于北京航空航天大学获工学学士学位，2018年于中国科学院自动化研究所获博士学位。主要研究方向为计算机视觉、图像取证。曾在国际顶级学术期刊和会议上发表多篇论文，包括IEEE T-IFS、CVPRW、WIFS、ICIP等，曾获北京市优秀毕业生等荣誉奖励。

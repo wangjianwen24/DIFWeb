@@ -60,7 +60,7 @@ email: "jianwen.wang@nlpr.ia.ac.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 工程师
+- Engineers
 ---
 
 王建文，硕士，工程师，主要从事模式识别与图像处理、计算机视觉、多媒体内容安全方面的项目开发、集成等工作。
