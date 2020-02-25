@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Shirun Zhang"
+name: "张时润"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,29 +10,31 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role:在读学生
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: 中国科学院自动化研究所
+  url: "http://www.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 主要从事安全取证图像算法研究工作。
+
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- 人工智能
+- 信息安全
+- 数字取证
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+- course: 硕士
+    institution: 湖南工业大学
+    year: 2018-2021
+  - course: 学士
+    institution: 湖南工程学院
+    year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,5 +65,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- 在读学生
 ---
+张时润，硕士，主要从事计算机视觉，安全取证相关研究。

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jing Dong
+name: 董 晶
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Prof., Master Tutor
+role: 副教授，硕导
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Automation, Chinese Academy of Sciences
-  url: "http://english.ia.cas.cn/"
+- name: 中国科学院自动化研究所
+  url: "http://www.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mainly engaged in the research work of multimedia content security, artificial intelligence security, multimodal content analysis and understanding.
-
+bio: 主要从事多媒体内容安全、人工智能安全、多模态内容分析与理解等方面的研究工作。
 
 interests:
-- Artificial Intelligence
-- Big Data
-- Pattern Recognition
-- Information Security
-- Digital Forensics
-
+- 人工智能
+- 大数据
+- 模式识别
+- 信息安全
+- 数字取证
 
 education:
   courses:
-  - course: Doctor
-    institution: Institute of Automation, Chinese Academy of Sciences
+  - course: 博士
+    institution: 中国科学院自动化研究所
     year: 2005-2010
-  - course: Bachelor
-    institution: Central South University
+  - course: 学士
+    institution: 中南大学
     year: 2001-2005
 
 
@@ -64,9 +62,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Administration
-- Researchers
+- 负责人
+- 科研人员
 
 ---
 
-Dong Jing, Ph.D., associate researcher, master tutor, director of "Artificial Intelligence and Robot Education Joint Laboratory" of CASIA Intelligent Star. Mainly engaged in the research work of pattern recognition and image processing, computer vision, multimedia content security, has published nearly 50 academic papers in international authoritative journals and academic conferences, applied for 18 invention patents and software copyright, has authorized 7 patents, 1 international patent. She presided over or mainly participated in more than 30 national and provincial scientific research projects, such as the National 863 plan, the 973 Plan, the science and technology support plan, the key R & D plan, and the National Natural Science Foundation. She is a member of the youth innovation promotion association of the Chinese Academy of Sciences and the American Institute of electrical and Electronic Engineers (IEEE) Senior member, outstanding member of China artificial intelligence society; Deputy Secretary General and director of China Artificial Intelligence Society (2014 present); Deputy Secretary General and director of China Image Graphics Society (2016 present); member of computer vision Professional Committee of China computer society, member of pattern recognition special committee of China artificial intelligence society, member of vision big data and many numbers of China Image Graphics Society Member of media forensics Committee, member of Hybrid Intelligence Committee of China automation society, director of Beijing Institute of image graphics, young member (2012 present), Executive Committee of IEEE Asia Pacific region (2010-20112017 present), chairman of women engineers Committee, IEEE MGA Member of vtools Committee (2016-2017), Executive Committee of IEEE Beijing Branch (2010-2017), expert of intelligent society and intelligent economic system analysis special committee of China Society for social economic system analysis and research, and guidance expert of Haidian stem education system innovation center of Chinese Academy of education. She was awarded the 2016 IBM faculty award. She is currently the editor in chief of IAPR newsletter and the Journal of information security and application of Elsevier International Journal, she was the deputy editor in chief of image processing, an International Journal of IET, and served as the chairman of the Organizing Committee of IEEE youth computing and Communication Technology Conference (2009, 2010), the co chairman of the Organizing Committee of China Artificial Intelligence Conference (2015, 2016, 2017), and other related academic conferences in this field at home and abroad.
+董晶，博士，副研究员，硕士生导师，自动化所-中科智能之星“人工智能与机器人教育联合实验室”主任。主要从事模式识别与图像处理、计算机视觉、多媒体内容安全方面的研究工作，已在国际权威期刊及学术会议上发表学术论文近50篇，申请发明专利和软件著作权18项，已授权专利7项，国际专利1项。她主持或主要参与了国家863计划、973计划，科技支撑计划、重点研发计划、国家自然科学基金等30余项国家和省部级科研项目。现为中国科学院青年创新促进会会员、美国电气电子工程师学会(IEEE) 高级会员、中国人工智能学会杰出会员；中国人工智能学会副秘书长、理事（2014-今）；中国图象图形学学会副秘书长、理事（2016-今）；中国计算机学会计算机视觉专业委员会委员，中国人工智能学会模式识别专委会委员，中国图象图形学学会视觉大数据、数字多媒体取证专委会委员； 中国自动化学会混合智能专业委员会委员，北京图像图形学学会理事、青年委员（2012-今）、IEEE亚太区执委（2010-2011，2017-今）、女工程师委员会主席，IEEE MGA VTools委员会委员（2016-2017）、IEEE北京分会执委（2010-2017），中国社会经济系统分析研究会智能社会与智能经济系统分析专委会专家，中国教科院海淀STEM教育系统创新中心指导专家。曾获2016年度IBM教职人员奖。她现任国际模式识别联合会会刊《IAPR Newsletter》主编，Elsevier国际期刊《Journal of Information Security and Application》, 曾任IET国际期刊《Image Processing》的副主编，并曾担任IEEE 青年计算与通讯技术大会组织委员会主席（2009、2010）、中国人工智能大会组委会联席主席（2015、2016、2017）等多个本领域国内外相关学术会议的组织工作。

@@ -1,38 +1,39 @@
 ---
 # Display name
-name: "Weinan Guan"
+name: 管伟楠
 
-# Username (this should match the folder name and the name on publications)
+# Username (this should match the folder name)
 authors:
-- Name "Weinan Guan"
+- Weinan Guan
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position (e.g., Professor of Artificial Intelligence)
-role:
+# Role/position
+role: 在读学生
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: 中国科学院大学
+  url: "https://www.ucas.ac.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 主要以多模态信息不一致性检测为研究方向，进行研究生科研工作。
 
-# List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- 人工智能
+- 模式识别
+- 数字取证
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: 硕士
+    institution: 中国科学院大学
+    year: 2018-至今
+  - course: 学士
+    institution: 东北大学
+    year: 2014-2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,16 +42,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: 'guanweinan2018@ia.ac.cn'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: 
+  
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,10 +55,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "guanweinan2018@ia.ac.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- 在读学生
+
 ---
+（个人简介，可详细介绍）
+管伟楠，研究生在读，主要以多模态信息的不一致性检测为研究方向，进行数字取证相关的科研工作。

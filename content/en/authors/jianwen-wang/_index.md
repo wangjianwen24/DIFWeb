@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Jianwen Wang"
+name: "王建文"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role:工程师
 
 # Organizations/Affiliations
 organizations:
@@ -18,21 +18,22 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 主要从事多媒体内容安全、人工智能安全等方面的项目开发、集成工作。
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- 人工智能
+- 计算机视觉
+- 多媒体内容安全
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: 硕士
+    institution: 北京工业大学
+    year: 2010-2013
+  - course: 学士
+    institution: 长安大学
+    year: 2004-2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,16 +42,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: 'jianwen.wang@nlpr.ia.ac.cn'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/wangjianwen24
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,5 +58,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Engineers
+- 工程师
 ---
+王建文，硕士，工程师，主要从事模式识别与图像处理、计算机视觉、多媒体内容安全方面的项目开发、集成等工作。

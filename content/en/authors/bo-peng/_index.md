@@ -1,38 +1,41 @@
 ---
 # Display name
-name: "Bo Peng"
+name: 彭 勃
 
-# Username (this should match the folder name and the name on publications)
+# Username (this should match the folder name)
 authors:
-- Name "Bo Peng"
+- Bo Peng
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position (e.g., Professor of Artificial Intelligence)
-role: Assistant Research Fellow
+# Role/position
+role: 助理研究员
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: 中国科学院自动化研究所
+  url: "http://www.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 主要从事图像取证、多媒体内容安全、计算机视觉等方面的科学研究。
 
-# List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- 人工智能
+- 模式识别
+- 计算机视觉
+- 图像取证
+- 生物特征识别
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: 博士
+    institution: 中国科学院自动化研究所
+    year: 2013-2018
+  - course: 学士
+    institution: 北京航空航天大学
+    year: 2009-2013
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,16 +44,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: 'bo.peng@nlpr.ia.ac.cn'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://scholar.google.com/citations?user=YNW7o7IAAAAJ&hl=en
+  
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,11 +57,14 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "bo.peng@nlpr.ia.ac.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+-  科研人员
 
 ---
+彭勃，中国科学院自动化研究所助理研究员，2013年于北京航空航天大学获工学学士学位，2018年于中国科学院自动化研究所获博士学位。主要研究方向为计算机视觉、图像取证。曾在国际顶级学术期刊和会议上发表多篇论文，包括IEEE T-IFS、CVPRW、WIFS、ICIP等，曾获北京市优秀毕业生等荣誉奖励。
+
+Dr. Bo Peng received BSc degree in Beihang University and PhD degree in the Institute of Automation, Chinese Academy of Sciences in 2013 and 2018, respectively. Since July 2018, Dr. Bo Peng has joined the Institute of Automation, Chinese Academy of Sciences where he is currently an Assistant Professor. His current research focuses on computer vision and image forensics.

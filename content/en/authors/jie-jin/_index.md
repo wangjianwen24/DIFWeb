@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Jie Jin"
+name: "晋杰"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -63,5 +63,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Engineer
+- 天津工程师
 ---

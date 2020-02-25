@@ -1,38 +1,39 @@
----
+﻿---
 # Display name
-name: "卞明运"
+name: 卞明运
 
-# Username (this should match the folder name and the name on publications)
+# Username (this should match the folder name)
 authors:
-- Name "Mingyun Bian"
+- Mingyun Bian
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position (e.g., Professor of Artificial Intelligence)
-role:
+# Role/position
+role: 在读学校
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: 中国科学院自动化研究所
+  url: "http://www.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 主要从事人工智能安全，计算机视觉等方面的科研工作。
 
-# List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- 计算机视觉
+- 模式识别
+- 信息安全
+- 数字取证
 
 education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: 硕士
+    institution: 湖南工业大学
+    year: 2017-2020
+  - course: 学士
+    institution: 华北科技学院
+    year: 2013-2017
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,16 +42,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: 'jianwen.wang@nlpr.ia.ac.cn'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: 
+  
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,4 +61,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - 在读学生
+
 ---
+（个人简介，可详细介绍）
+卞明运，硕士，主要从事计算机视觉，人工智能与安全相关的科研研究。
