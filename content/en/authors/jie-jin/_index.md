@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role:Engineers
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: Institute of Automation, Chinese Academy of Sciences
+  url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -63,5 +63,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 天津工程师
+- Engineers
 ---

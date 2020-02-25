@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 工程师
+role: Engineers
 
 # Organizations/Affiliations
 organizations:
-- name: 中国科学院自动化研究所
-  url: "http://www.ia.cas.cn/"
+- name: Institute of Automation, Chinese Academy of Sciences
+  url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 主要从事多媒体内容安全、人工智能安全等方面的项目开发、集成工作。
@@ -60,7 +60,7 @@ email: "jianwen.wang@nlpr.ia.ac.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 工程师
+- Engineers
 ---
 
 王建文，硕士，工程师，主要从事模式识别与图像处理、计算机视觉、多媒体内容安全方面的项目开发、集成等工作。
