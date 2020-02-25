@@ -1,10 +1,10 @@
 ﻿---
 # Display name
-name: 李东泽
+name: "李东泽"
 
 # Username (this should match the folder name)
 authors:
-- Jianwen Wang
+- Dongze Li
 
 # Is this the primary user of the site?
 superuser: false
@@ -55,8 +55,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 学生
+- 在读学生
 
 ---
-（个人简介，可详细介绍）
+
 李东泽，自动化所2020级硕士研究生

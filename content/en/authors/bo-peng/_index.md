@@ -1,15 +1,15 @@
 ---
 # Display name
-name: 彭 勃
+name: "彭 勃"
 
-# Username (this should match the folder name)
+# Username (this should match the folder name and the name on publications)
 authors:
-- Bo Peng
+- Name "Bo Peng"
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
+# Role/position (e.g., Professor of Artificial Intelligence)
 role: 助理研究员
 
 # Organizations/Affiliations
@@ -18,8 +18,9 @@ organizations:
   url: "http://www.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 主要从事图像取证、多媒体内容安全、计算机视觉等方面的科学研究。
+bio: 
 
+# List each interest with a dash
 interests:
 - 人工智能
 - 模式识别
@@ -36,7 +37,6 @@ education:
     institution: 北京航空航天大学
     year: 2009-2013
 
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -48,8 +48,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=YNW7o7IAAAAJ&hl=en
-  
-
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,8 +61,5 @@ email: "bo.peng@nlpr.ia.ac.cn"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 -  科研人员
-
 ---
 彭勃，中国科学院自动化研究所助理研究员，2013年于北京航空航天大学获工学学士学位，2018年于中国科学院自动化研究所获博士学位。主要研究方向为计算机视觉、图像取证。曾在国际顶级学术期刊和会议上发表多篇论文，包括IEEE T-IFS、CVPRW、WIFS、ICIP等，曾获北京市优秀毕业生等荣誉奖励。
-
-Dr. Bo Peng received BSc degree in Beihang University and PhD degree in the Institute of Automation, Chinese Academy of Sciences in 2013 and 2018, respectively. Since July 2018, Dr. Bo Peng has joined the Institute of Automation, Chinese Academy of Sciences where he is currently an Assistant Professor. His current research focuses on computer vision and image forensics.

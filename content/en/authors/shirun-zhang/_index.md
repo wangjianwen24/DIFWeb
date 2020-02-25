@@ -1,16 +1,16 @@
 ---
 # Display name
-name: "张时润"
+name: 张时润
 
-# Username (this should match the folder name and the name on publications)
+# Username (this should match the folder name)
 authors:
-- Name "Shirun Zhang"
+- Jhirun Zhang
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position (e.g., Professor of Artificial Intelligence)
-role:在读学生
+# Role/position
+role: 在读学生
 
 # Organizations/Affiliations
 organizations:
@@ -20,8 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 主要从事安全取证图像算法研究工作。
 
-
-# List each interest with a dash
 interests:
 - 人工智能
 - 信息安全
@@ -29,12 +27,13 @@ interests:
 
 education:
   courses:
-- course: 硕士
+  - course: 硕士
     institution: 湖南工业大学
     year: 2018-2021
   - course: 学士
     institution: 湖南工程学院
     year: 2013-2017
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,16 +42,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: 'jianwen.wang@nlpr.ia.ac.cn'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: 
+  
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,11 +55,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jianwen.wang@nlpr.ia.ac.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - 在读学生
+
 ---
+
 张时润，硕士，主要从事计算机视觉，安全取证相关研究。

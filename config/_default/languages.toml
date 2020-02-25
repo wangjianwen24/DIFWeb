@@ -21,7 +21,7 @@
   [[zh.menu.main]]
     name = "学术任职"
     url = "#accomplishments"
-    weight = 20
+    weight = 18
   [[zh.menu.main]]
     name = "学术论文"
     url = "#publications"

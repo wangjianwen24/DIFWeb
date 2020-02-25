@@ -1,4 +1,4 @@
-﻿---
+---
 # Display name
 name: 卞明运
 
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 在读学校
+role: 硕士
 
 # Organizations/Affiliations
 organizations:
@@ -27,6 +27,7 @@ interests:
 - 数字取证
 
 education:
+  courses:
   - course: 硕士
     institution: 湖南工业大学
     year: 2017-2020
@@ -42,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'jianwen.wang@nlpr.ia.ac.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: ''  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: 
@@ -63,5 +64,5 @@ user_groups:
 - 在读学生
 
 ---
-（个人简介，可详细介绍）
+
 卞明运，硕士，主要从事计算机视觉，人工智能与安全相关的科研研究。

@@ -1,3 +1,4 @@
+---
 # Display name
 name: 马天翔
 
@@ -9,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 学生
+role: 在读学生
 
 # Organizations/Affiliations
 organizations:
@@ -43,9 +44,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'tianxiang.ma@cripac.ia.ac.cn'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
-  link: 
+
   
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -60,8 +59,8 @@ email: "tianxiang.ma@cripac.ia.ac.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 学生
+- 在读学生
 
 ---
-（个人简介，可详细介绍）
+
 马天翔，硕士在读，主要从事人工智能、计算机视觉、模式识别、内容安全等方面的学术研究工作。
