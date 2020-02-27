@@ -62,4 +62,4 @@ email: "bo.peng@nlpr.ia.ac.cn"
 user_groups:
 -  Researchers
 ---
-彭勃，中国科学院自动化研究所助理研究员，2013年于北京航空航天大学获工学学士学位，2018年于中国科学院自动化研究所获博士学位。主要研究方向为计算机视觉、图像取证。曾在国际顶级学术期刊和会议上发表多篇论文，包括IEEE T-IFS、CVPRW、WIFS、ICIP等，曾获北京市优秀毕业生等荣誉奖励。
+Dr. Bo Peng received BSc degree in Beihang University and PhD degree in the Institute of Automation, Chinese Academy of Sciences in 2013 and 2018, respectively. Since July 2018, Dr. Bo Peng has joined the Institute of Automation, Chinese Academy of Sciences where he is currently an Assistant Professor. His current research focuses on computer vision and image forensics.
