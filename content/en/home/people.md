@@ -7,16 +7,16 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 110  # Order that this section will appear.
 
-title = "Team Members"
+title = "Research Direction of Biometrics Recognition and Security"
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Administration",
-                 "Researchers",
+                 "Cooperative Teachers",
                  "Engineers",
-                 "Students",
+                 "Cooperative Students",
                  "Alumni",
 				 "Visitors"]
 

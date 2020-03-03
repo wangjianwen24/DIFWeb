@@ -60,7 +60,7 @@ email: "guanweinan2018@ia.ac.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Cooperative Students
 
 ---
 管伟楠，研究生在读，主要以多模态信息的不一致性检测为研究方向，进行数字取证相关的科研工作。

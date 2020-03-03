@@ -59,7 +59,7 @@ email: "ziwen.he@cripac.ia.ac.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 在读学生
+- 合作学生
 
 ---
 

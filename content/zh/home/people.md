@@ -7,16 +7,16 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 110  # Order that this section will appear.
 
-title = "负责团队"
+title = "生物识别与安全研究方向"
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["负责人",
-                 "科研人员",
+                 "合作老师",
                  "工程师",
-                 "在读学生"]
+                 "合作学生"]
 
 [design]
   # Show user's social networking links? (true/false)

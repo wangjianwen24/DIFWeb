@@ -16,31 +16,31 @@
     description = "董晶的个人主页"
   [[zh.menu.main]]
     name = "个人简介"
-    url = "#about"
+    url = "index.html#about"
     weight = 10
   [[zh.menu.main]]
     name = "学术任职"
-    url = "#accomplishments"
+    url = "index.html#accomplishments"
     weight = 18
   [[zh.menu.main]]
     name = "学术论文"
-    url = "#publications"
+    url = "index.html#publications"
     weight = 20
   [[zh.menu.main]]
     name = "科研项目"
-    url = "#projects"
+    url = "index.html#projects"
     weight = 30
   [[zh.menu.main]]
-    name = "团队人员"
-    url = "#people"
+    name = "课题组人员"
+    url = "index.html#people"
     weight = 40
   [[zh.menu.main]]
     name = "毕业生信息"
-    url = "#students"
+    url = "index.html#students"
     weight = 50	
   [[zh.menu.main]]
     name = "招生信息"
-    url = "#teaching"
+    url = "index.html#teaching"
     weight = 60
 
 

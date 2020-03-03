@@ -1,41 +1,45 @@
 ---
 # Display name
-name: "彭 勃"
+name: 孙哲南
 
-# Username (this should match the folder name and the name on publications)
+# Username (this should match the folder name)
 authors:
-- Name "Bo Peng"
+- Zhenan Sun
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position (e.g., Professor of Artificial Intelligence)
-role: Assistant Researchers
+# Role/position
+role: 教授，博导
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Automation, Chinese Academy of Sciences
-  url: "http://english.ia.cas.cn/"
+- name: 智能感知与计算研究中心
+  url: "http://www.cripac.ia.ac.cn/"
+- name: 模式识别国家重点实验室
+  url: "http://www.nlpr.ia.ac.cn/"
+- name: 中国科学院自动化研究所
+  url: "http://www.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 主要从事多媒体内容安全、人工智能安全、多模态内容分析与理解等方面的研究工作。
 
-# List each interest with a dash
 interests:
 - 人工智能
+- 大数据
 - 模式识别
-- 计算机视觉
-- 图像取证
-- 生物特征识别
+- 信息安全
+- 数字取证
 
 education:
   courses:
   - course: 博士
     institution: 中国科学院自动化研究所
-    year: 2013-2018
+    year: XXXX-XXXX
   - course: 学士
-    institution: 北京航空航天大学
-    year: 2009-2013
+    institution: XXX
+    year: XXXX-XXXX
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,10 +48,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'bo.peng@nlpr.ia.ac.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'jdong@nlpr.ia.ac.cn'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=YNW7o7IAAAAJ&hl=en
+  link: 
+  
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,11 +61,14 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "bo.peng@nlpr.ia.ac.cn"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
--  Cooperative Teachers
+- 负责人
+- 
+
 ---
-Dr. Bo Peng received BSc degree in Beihang University and PhD degree in the Institute of Automation, Chinese Academy of Sciences in 2013 and 2018, respectively. Since July 2018, Dr. Bo Peng has joined the Institute of Automation, Chinese Academy of Sciences where he is currently an Assistant Professor. His current research focuses on computer vision and image forensics.
+
+孙哲南，博士，研究员，博士生导师。

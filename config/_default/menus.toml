@@ -5,37 +5,37 @@
 
 [[main]]
   name = "HOME"
-  url = "#about"
+  url = "index.html#about"
   weight = 10
   
 [[main]]
   name = "SERVICE"
-  url = "#accomplishments"
+  url = "index.html#accomplishments"
   weight = 18
 
 [[main]]
   name = "PUBLICATIONS"
-  url = "#publications"
+  url = "index.html#publications"
   weight = 20
 
 [[main]]
   name = "PROJECTS"
-  url = "#projects"
+  url = "index.html#projects"
   weight = 30
 
 [[main]]
   name = "LAB"
-  url = "#people"
+  url = "index.html#people"
   weight = 40
 
 [[main]]
   name = "ALUMNI"
-  url = "#students"
+  url = "index.html#students"
   weight = 50
   
 [[main]]
   name = "RECRUIT"
-  url = "#teaching"
+  url = "index.html#teaching"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.

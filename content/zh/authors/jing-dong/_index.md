@@ -14,6 +14,10 @@ role: 副教授，硕导
 
 # Organizations/Affiliations
 organizations:
+- name: 智能感知与计算研究中心
+  url: "http://www.cripac.ia.ac.cn/"
+- name: 模式识别国家重点实验室
+  url: "http://www.nlpr.ia.ac.cn/"
 - name: 中国科学院自动化研究所
   url: "http://www.ia.cas.cn/"
 
@@ -62,8 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 负责人
-- 科研人员
+- 合作老师
 
 ---
 
