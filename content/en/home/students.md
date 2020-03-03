@@ -8,8 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Graduates
-(As Cooperative Teachers)"
+title = "Graduates        (As Cooperative Teachers)"
 subtitle = ""
 
 [design]
