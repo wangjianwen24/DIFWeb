@@ -70,16 +70,10 @@ subtitle = ""
 <h2>Recruit Type</h2>
 
 
-1. Doctoral candidates;
-2. Doctor degree students;
-3. Master degree students;
-4. Intern (long-term priority, Graduate priority and excellent undergraduate)
+- Master
 
 <hr/>
 
 <h2>Contact Us</h2>
 
-Email：jdong_at_nlpr.ia.ac.cn    
-Tel. ：010-82544641    
-Addr ：北京市海淀区中关村东路95号智能化大厦1504    
-Postal Code：100190
+Email：jdong_at_nlpr.ia.ac.cn

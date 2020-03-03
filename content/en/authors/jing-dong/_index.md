@@ -14,6 +14,10 @@ role: Associate Prof., Master Tutor
 
 # Organizations/Affiliations
 organizations:
+- name: Center for Research on Intelligent Perception and Computing
+  url: "http://cripac.ia.ac.cn/en/EN/volumn/home.shtml"
+- name: National Laboratory of Pattern Recognition
+  url: "http://www.nlpr.ia.ac.cn/en/"
 - name: Institute of Automation, Chinese Academy of Sciences
   url: "http://english.ia.cas.cn/"
 
