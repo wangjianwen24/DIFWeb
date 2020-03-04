@@ -4,7 +4,7 @@ name: 张时润
 
 # Username (this should match the folder name)
 authors:
-- Jhirun Zhang
+- Shirun Zhang
 
 # Is this the primary user of the site?
 superuser: false

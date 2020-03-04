@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 马天翔
+name: Tianxiang Ma
 
 # Username (this should match the folder name)
 authors:
@@ -18,21 +18,21 @@ organizations:
   url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 主要从事计算机视觉、深度学习、内容安全等方面研究工作。
+bio: Mainly engaged in computer vision, deep learning, content security and other research work.
 
 interests:
-- 人工智能
-- 计算机视觉
-- 模式识别
-- 信息安全
+- Artificial Intelligence
+- Computer Vision
+- Pattern Recognition
+- Information Security
 
 education:
   courses:
-  - course: 硕士
-    institution: 中科院自动化研究所
-    year: 2019 - 至今
-  - course: 学士
-    institution: 郑州大学
+  - course: Master
+    institution: Institute of Automation, Chinese Academy of Sciences
+    year: 2019 - 
+  - course: Bachelor
+    institution: Zhengzhou University
     year: 2015 - 2019
 
 
@@ -63,4 +63,4 @@ user_groups:
 
 ---
 
-马天翔，硕士在读，主要从事人工智能、计算机视觉、模式识别、内容安全等方面的学术研究工作。
+Tianxiang Ma, master. Mainly engaged in the academic research of artificial intelligence, computer vision, pattern recognition, content security, etc

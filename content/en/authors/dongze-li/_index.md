@@ -1,6 +1,6 @@
 ﻿---
 # Display name
-name: "李东泽"
+name: "Dongze Li"
 
 # Username (this should match the folder name)
 authors:
@@ -18,16 +18,16 @@ organizations:
   url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 自动化所2020级硕士研究生。
+bio: Master of Institute of Automation, Chinese Academy of Sciences, 2020.
 
 interests:
-- 人工智能
-- 对抗样本
+- Artificial Intelligence
+- Counter Sample
 
 education:
   courses:
-  - course: 学士
-    institution: 大连理工大学
+  - course: Bachelor
+    institution: Dalian University of Technology
     year: 2016-2020
   
 # Social/Academic Networking
@@ -59,4 +59,4 @@ user_groups:
 
 ---
 
-李东泽，自动化所2020级硕士研究生
+Dongze Li, master.

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "李博蕊"
+name: "Borui Li"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -18,20 +18,18 @@ organizations:
   url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 主要从事项目管理，项目测试等工作。
+bio: Mainly engaged in project management, program teating, etc.
 
 # List each interest with a dash
 interests:
-- 人工智能
-- 大数据
-- 模式识别
-- 信息安全
-- 数字取证
+- Project Management
+- Program Testing
+- Information Security
 
 education:
   courses:
-  - course: 学士
-    institution: 中南大学
+  - course: Bachelor
+    institution: Central South University
     year: 2002-2006
 
 
@@ -62,4 +60,4 @@ user_groups:
 
 ---
 
-李博蕊，学士，工程师，主要从事项目管理，项目测试等工作。
+Borui Li, bachelor, engineer, mainly engaged in project management, program testing, etc.

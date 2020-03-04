@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 王 伟
+name: Wei Wang
 
 # Username (this should match the folder name)
 authors:
@@ -14,24 +14,28 @@ role: Researchers, Master Tutor
 
 # Organizations/Affiliations
 organizations:
+- name: Center for Research on Intelligent Perception and Computing
+  url: "http://cripac.ia.ac.cn/en/EN/volumn/home.shtml"
+- name: National Laboratory of Pattern Recognition
+  url: "http://www.nlpr.ia.ac.cn/en/"
 - name: Institute of Automation, Chinese Academy of Sciences
   url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 主要从事多媒体内容安全、人工智能安全、多模态内容分析与理解等方面的研究工作。
+bio: Mainly engaged in the research work of multimedia content security, artificial intelligence security, multimodal content analysis and understanding, etc.
 
 interests:
-- 人工智能安全
-- 多媒体内容安全
-- 网络与信息安全
+- AI Security
+- Multimedia Content Security
+- Network and Information Security
 
 education:
   courses:
-  - course: 博士
-    institution: 中国科学院自动化研究所
+  - course: Dr.
+    institution: Institute of Automation, Chinese Academy of Sciences
     year: 2007-2012
-  - course: 学士
-    institution: 华北电力大学（北京）
+  - course: Bachelor
+    institution: North China Electric Power University (Beijing)
     year: 2003-2007
 
 
@@ -67,4 +71,4 @@ user_groups:
 
 ---
 
-王伟，副研究员，硕士生导师，人工智能学会吴文俊优秀青年奖（2018年）获得者，中科院青促会（2019年）成员。2007年获华北电力大学工学学士学位，2012年获自动化所工学博士学位。现为中科院自动化所模式识别国家重点实验室、智能感知与计算研究中心副研究员。王伟博士主要从事多媒体内容安全、人工智能安全、多模态内容分析与理解等方面的研究工作。在重要的国内外学术刊物和学术会议上发表论文40余篇。现为中国图象图形学学会数字媒体取证与安全专业委员会常务委员、中国计算机学会计算机专业委员会委员、中国人工智能学会模式识别专业委员、中国图象图形学学会视觉大数据专业委员会委员。王伟博士已主持或参与国家和各部委科研项目10余项，并获得北京市青年人才托举计划支持。
+Wei Wang, Associate researcher, master tutor, winner of Wu Wenjun Outstanding Youth Award (2018) of AI society, member of youth Promotion Association of Chinese Academy of Sciences (2019). In 2007, he obtained the bachelor's degree of engineering from North China Electric Power University and the doctor's degree of engineering from the Institute of automation in 2012. Now, he is an associate researcher of National Laboratory of Pattern Recognition and Center for Research on Intelligent Perception and Computing of Institute of automation, Chinese Academy of Sciences. Dr. Wei Wang  is mainly engaged in multimedia content security, artificial intelligence security, multimodal content analysis and understanding. He has published more than 40 papers in important academic journals and conferences at home and abroad. He is now a member of the Standing Committee of the digital media forensics and Security Professional Committee of the Chinese society of image graphics, a member of the computer professional committee of the Chinese computer society, a member of the pattern recognition Professional Committee of the Chinese society of artificial intelligence, and a member of the visual big data professional Committee of the Chinese society of image graphics. Dr. Wang Wei has presided over or participated in more than 10 national and ministerial scientific research projects, and obtained support from the Beijing Youth Talent trust program.

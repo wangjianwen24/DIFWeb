@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "王建文"
+name: "Jianwen Wang"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -18,23 +18,23 @@ organizations:
   url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 主要从事多媒体内容安全、人工智能安全等方面的项目开发、集成工作。
+bio: Mainly engaged in the development and integration of multimedia content security, artificial intelligence security, etc.
 
 # List each interest with a dash
 interests:
-- 人工智能
-- 大数据
-- 模式识别
-- 信息安全
-- 数字取证
+- Artificial Intelligence
+- Big Data
+- Pattern Recognition
+- Information Security
+- Digital Forensics
 
 education:
   courses:
-  - course: 硕士
-    institution: 北京工业大学
+  - course: Master
+    institution: Beijing University of Technology
     year: 2010-2013
-  - course: 学士
-    institution: 长安大学
+  - course: Bachelor
+    institution: Chang'an University
     year: 2004-2008
 
 # Social/Academic Networking
@@ -63,4 +63,4 @@ user_groups:
 - Engineers
 ---
 
-王建文，硕士，工程师，主要从事模式识别与图像处理、计算机视觉、多媒体内容安全方面的项目开发、集成等工作。
+Jianwen Wang, master, engineer, Mainly engaged in the development and integration of multimedia content security, artificial intelligence security, etc.

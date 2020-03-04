@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 轩心升
+name: Xinsheng Xuan
 
 # Username (this should match the folder name)
 authors:
@@ -18,21 +18,21 @@ organizations:
   url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 主要从事人工智能安全、图像取证等方面的研究。
+bio: Mainly engaged in artificial intelligence security, image forensics and other aspects of research.
 
 interests:
-- 人工智能
-- 模式识别
-- 计算机视觉
-- 图像取证
+- Artificial Intelligence
+- Pattern Recognition
+- Computer Vision
+- Image Forensics
 
 education:
   courses:
-  - course: 硕士
-    institution: 中国科学院大学
-    year: 2017-至今
-  - course: 学士
-    institution: 新乡学院
+  - course: Master
+    institution: University of Chinese Academy of Sciences
+    year: 2017-
+  - course: Bachelor
+    institution: Xinxiang University
     year: 2013-2017
 
 
@@ -63,4 +63,4 @@ user_groups:
 
 ---
 
-轩心升，国科大17级硕士，感兴趣方向包含模式识别与图像处理、计算机视觉、图像取证等。
+Xinsheng Xuan, master. The direction of interest includes pattern recognition and image processing, computer vision, image forensics, etc.

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 宋宗泽
+name: Zongze Song
 
 # Username (this should match the folder name)
 authors:
@@ -18,23 +18,23 @@ organizations:
   url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 人工智能安全、数字取证等方面的项目开发工作。
+bio: Mainly engaged in information security, forensics, computer vision and other aspects of the project development work.
 
 interests:
-- 人工智能
-- 大数据
-- 深度学习
-- 信息安全
-- 数字取证
+- Artificial Intelligence
+- Big Data
+- Pattern Recognition
+- Information Security
+- Digital Forensics
 
 education:
   courses:
 
-  - course: 硕士
-    institution: 兰州理工大学
+  - course: Master
+    institution: Lanzhou University of Technology
     year: 2016-2019
-  - course: 学士
-    institution: 兰州理工大学
+  - course: Bachelor
+    institution: Lanzhou University of Technology
     year: 2011-2015
 
 
@@ -66,4 +66,4 @@ user_groups:
 - Engineers
 
 ---
-宋宗泽，硕士，工程师，主要从事信息安全、取证以及计算机视觉等方面的项目开发工作。
+Zongze Song, master, engineer. Mainly engaged in information security, forensics, computer vision and other aspects of the project development work.

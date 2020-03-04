@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "彭 勃"
+name: "Bo Peng"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -22,19 +22,19 @@ bio:
 
 # List each interest with a dash
 interests:
-- 人工智能
-- 模式识别
-- 计算机视觉
-- 图像取证
-- 生物特征识别
+- Artificial Intelligence
+- Pattern Recognition
+- Computer Vision
+- Image Forensics
+- Biometric Identification
 
 education:
   courses:
-  - course: 博士
-    institution: 中国科学院自动化研究所
+  - course: Dr.
+    institution: Institute of Automation, Chinese Academy of Sciences
     year: 2013-2018
-  - course: 学士
-    institution: 北京航空航天大学
+  - course: Bachelor
+    institution: Beijing University of Aeronautics and Astronautics
     year: 2009-2013
 
 # Social/Academic Networking

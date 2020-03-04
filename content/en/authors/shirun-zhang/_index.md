@@ -1,10 +1,10 @@
 ---
 # Display name
-name: 张时润
+name: Shirun Zhang
 
 # Username (this should match the folder name)
 authors:
-- Jhirun Zhang
+- Shirun Zhang
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,20 +18,20 @@ organizations:
   url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 主要从事安全取证图像算法研究工作。
+bio: Mainly engaged in security forensics image algorithm research.
 
 interests:
-- 人工智能
-- 信息安全
-- 数字取证
+- Artificial Intelligence
+- Information Security
+- Digital Forensics
 
 education:
   courses:
-  - course: 硕士
-    institution: 湖南工业大学
+  - course: Master
+    institution: Hunan University of Technology
     year: 2018-2021
-  - course: 学士
-    institution: 湖南工程学院
+  - course: Bachelor
+    institution: Hunan Institute of Engineering
     year: 2013-2017
 
 
@@ -64,4 +64,4 @@ user_groups:
 
 ---
 
-张时润，硕士，主要从事计算机视觉，安全取证相关研究。
+Shirun Zhang, master. Mainly engaged in computer vision, security forensics related research.

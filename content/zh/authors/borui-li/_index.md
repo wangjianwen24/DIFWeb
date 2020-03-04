@@ -22,11 +22,9 @@ bio: 主要从事项目管理，项目测试等工作。
 
 # List each interest with a dash
 interests:
-- 人工智能
-- 大数据
-- 模式识别
+- 项目管理
+- 软件测试
 - 信息安全
-- 数字取证
 
 education:
   courses:

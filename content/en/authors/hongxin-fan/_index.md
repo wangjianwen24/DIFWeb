@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 樊红兴
+name: Hongxing Fan
 
 # Username (this should match the folder name)
 authors:
@@ -18,21 +18,21 @@ organizations:
   url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 主要研究视频取证，图像视频处理，非接触式生理信号测量等内容
+bio: Mainly studies video forensics, image video processing, non-contact physiological signal measurement, etc.
 
 interests:
-- 人工智能
-- 模式识别
-- 信息安全
-- 数字取证
+- Artificial Intelligence
+- Pattern Recognition
+- Information Security
+- Digital Forensics
 
 education:
   courses:
-  - course: 硕士
-    institution: 中国科学院大学
+  - course: Master
+    institution: University of Chinese Academy of Sciences
     year: 2018-
-  - course: 学士
-    institution: 中北大学
+  - course: Bachelor
+    institution: North University of China
     year: 2013-2017
 
 
@@ -65,4 +65,4 @@ user_groups:
 
 ---
 
-樊红兴，2018级硕士在读，主要在模式识别与图像视频处理、计算机视觉、多媒体内容安全方面进行研究
+Hongxing Fan, master. Mainly in pattern recognition and image video processing, computer vision, multimedia content security research.

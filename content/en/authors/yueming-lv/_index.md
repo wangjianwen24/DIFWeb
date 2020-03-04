@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 吕月明
+name: Yueming Lyu
 
 # Username (this should match the folder name)
 authors:
@@ -18,22 +18,22 @@ organizations:
   url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 从事人工智能领域的相关研究工作。
+bio: Engaged in related research work in the field of artificial intelligence.
 
 interests:
-- 人工智能
-- 大数据
-- 模式识别
-- 信息安全
-- 数字取证
+- Artificial Intelligence
+- Big Data
+- Pattern Recognition
+- Information Security
+- Digital Forensics
 
 education:
   courses:
-  - course: 博士
-    institution: 中国科学院大学
-    year: 2019-至今
-  - course: 学士
-    institution: 南京航空航天大学
+  - course: Dr.
+    institution: University of Chinese Academy of Sciences
+    year: 2019-
+  - course: Bachelor
+    institution: Nanjing University of Aeronautics and Astronautics
     year: 2015-2019
 
 

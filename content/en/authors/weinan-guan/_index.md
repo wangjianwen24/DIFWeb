@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 管伟楠
+name: Weinan Guan
 
 # Username (this should match the folder name)
 authors:
@@ -18,20 +18,20 @@ organizations:
   url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 主要以多模态信息不一致性检测为研究方向，进行研究生科研工作。
+bio: This paper focuses on the research of multimodal information inconsistency detection, and carries out graduate research.
 
 interests:
-- 人工智能
-- 模式识别
-- 数字取证
+- Artificial Intelligence
+- Pattern Recognition
+- Digital Forensics
 
 education:
   courses:
-  - course: 硕士
-    institution: 中国科学院大学
-    year: 2018-至今
-  - course: 学士
-    institution: 东北大学
+  - course: Master
+    institution: University of Chinese Academy of Sciences
+    year: 2018-
+  - course: Bachelor
+    institution: Northeastern University
     year: 2014-2018
 
 
@@ -63,4 +63,4 @@ user_groups:
 - Cooperative Students
 
 ---
-管伟楠，研究生在读，主要以多模态信息的不一致性检测为研究方向，进行数字取证相关的科研工作。
+Weinan Guan, master. The main research direction is to detect the inconsistency of multimodal information, and carry out the research work related to digital forensics.

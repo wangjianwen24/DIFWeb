@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 何子文
+name: Ziwen He
 
 # Username (this should match the folder name)
 authors:
@@ -18,21 +18,21 @@ organizations:
   url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 主要从事人工智能安全、对抗样本等方面的研究。
+bio: Mainly engaged in the research of artificial intelligence security, counterwork samples, etc.
 
 interests:
-- 人工智能
-- 模式识别
-- 计算机视觉
-- 对抗机器学习
+- Artificial Intelligence
+- Pattern Recognition
+- Computer Vision
+- Counter Machine Learning
 
 education:
   courses:
-  - course: 硕士
-    institution: 中国科学院大学
-    year: 2018-至今
-  - course: 学士
-    institution: 上海交通大学
+  - course: Master
+    institution: University of Chinese Academy of Sciences
+    year: 2018-
+  - course: Bachelor
+    institution: Shanghai Jiao Tong University
     year: 2014-2018
 
 
@@ -63,4 +63,4 @@ user_groups:
 
 ---
 
-何子文，自动化所18级硕士，感兴趣方向包含模式识别与图像处理、计算机视觉、对抗机器学习等。
+Ziwen He, master. The direction of interest includes pattern recognition and image processing, computer vision, counter machine learning, etc.

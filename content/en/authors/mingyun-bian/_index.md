@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 卞明运
+name: Mingyun Bian
 
 # Username (this should match the folder name)
 authors:
@@ -18,21 +18,21 @@ organizations:
   url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 主要从事人工智能安全，计算机视觉等方面的科研工作。
+bio: Mainly engaged in artificial intelligence security, computer vision and other aspects of scientific research.
 
 interests:
-- 计算机视觉
-- 模式识别
-- 信息安全
-- 数字取证
+- Computer Vision
+- Pattern Recognition
+- Information Security
+- Digital Forensics
 
 education:
   courses:
-  - course: 硕士
-    institution: 湖南工业大学
+  - course: Master
+    institution: Hunan University of Technology
     year: 2017-2020
-  - course: 学士
-    institution: 华北科技学院
+  - course: Bachelor
+    institution: North China Institute of Science & Technology
     year: 2013-2017
 
 
@@ -65,4 +65,4 @@ user_groups:
 
 ---
 
-卞明运，硕士，主要从事计算机视觉，人工智能与安全相关的科研研究。
+Mingyun Bian, master. Mainly engaged in computer vision, artificial intelligence and safety related research.

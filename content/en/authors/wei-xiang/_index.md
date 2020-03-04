@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 项 伟
+name: Wei Xiang
 
 # Username (this should match the folder name)
 authors:
@@ -18,22 +18,21 @@ organizations:
   url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 主要从事多媒体内容安全、人工智能安全等方面的项目开发、集成工作。
+bio: Mainly engaged in multimedia content and security, artificial intelligence security and other aspects of algorithm development, project development.
 
 interests:
-- 人工智能
-- 大数据
-- 模式识别
-- 信息安全
-- 数字取证
+- Artificial Intelligence
+- Big Data
+- Pattern Recognition
+- Information Security
+- Digital Forensics
 
 education:
   courses:
-  - course: 硕士
-    institution: 北京航空航天大学
-    year: 2016-2019
-  - course: 学士
-    institution: 北京信息科技大学
+  - course: Master
+    institution: Beihang University
+  - course: Bachelor
+    institution: Beijing Information Science and Technology University
     year: 2010-2014
 
 
@@ -66,4 +65,4 @@ user_groups:
 
 ---
 
-项伟，硕士，工程师，主要从事多媒体内容与安全、人工智能安全等方面的算法开发、项目开发工作。
+Wei Xiang, master, engineer. Mainly engaged in multimedia content and security, artificial intelligence security and other aspects of algorithm development, project development.

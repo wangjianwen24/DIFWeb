@@ -22,21 +22,21 @@ organizations:
   url: "http://english.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 主要从事多媒体内容安全、人工智能安全、多模态内容分析与理解等方面的研究工作。
+bio: Mainly engaged in multimedia content security, artificial intelligence security, multimodal content analysis and understanding, etc.
 
 interests:
-- 人工智能
-- 大数据
-- 模式识别
-- 信息安全
-- 数字取证
+- Artificial Intelligence
+- Big Data
+- Pattern Recognition
+- Information Security
+- Digital Forensics
 
 education:
   courses:
-  - course: 博士
-    institution: 中国科学院自动化研究所
+  - course: Dr.
+    institution: Institute of Automation, Chinese Academy of Sciences
     year: XXXX-XXXX
-  - course: 学士
+  - course: Bachelor
     institution: XXX
     year: XXXX-XXXX
 
@@ -70,4 +70,4 @@ user_groups:
 
 ---
 
-孙哲南，博士，研究员，博士生导师。
+Zhenan Sun, Dr., researcher, doctoral tutor.
