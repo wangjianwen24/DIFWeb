@@ -66,6 +66,15 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [查看全部论文]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+#{{% alert note %}}
+#Quickly discover relevant content by [查看全部论文]({{< ref "/publication/_index.md" >}}).
+#{{% /alert %}}
+
+<div align = "right">
+	<h4>
+		<a href = "publication">
+			查看全部论文
+			<i class  = "fas fa-angle-right"></i>
+		</a>
+	</h4>
+</div>
