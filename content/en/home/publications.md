@@ -66,6 +66,11 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [view all the papers]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+<div align = "right">
+	<h4>
+		<a href = "publication">
+			view all the papers
+			<i class  = "fas fa-angle-right"></i>
+		</a>
+	</h4>
+</div>

@@ -66,10 +66,6 @@ subtitle = ""
  css_class = ""
 +++
 
-#{{% alert note %}}
-#Quickly discover relevant content by [查看全部论文]({{< ref "/publication/_index.md" >}}).
-#{{% /alert %}}
-
 <div align = "right">
 	<h4>
 		<a href = "publication">
